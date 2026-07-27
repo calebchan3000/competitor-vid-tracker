@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.env
+
+# Uploaded screenshots can be large & are reproducible from the tabs — keep the
+# folders (via .gitkeep) but ignore the images themselves.
+data/uploads/pending/*/
+data/uploads/processed/*/
+!data/uploads/**/.gitkeep

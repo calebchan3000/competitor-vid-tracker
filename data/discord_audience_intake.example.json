@@ -1,0 +1,30 @@
+{
+  "tokenEnvFile": "/Users/jonathanchan/.hermes/profiles/yoppa/.env",
+  "keywordSlugs": {
+    "aa anti-dem": "aa-anti-dem",
+    "aa anti dem": "aa-anti-dem",
+    "anti-dem": "anti-dem",
+    "anti dem": "anti-dem",
+    "conservative": "anti-dem"
+  },
+  "vaMap": {
+    "edsel": {
+      "name": "Edsel"
+    }
+  },
+  "channels": [
+    {
+      "id": "PUT_DISCORD_AUDIENCE_UPLOAD_CHANNEL_ID_HERE",
+      "name": "#audience-tabs",
+      "defaultSlug": "anti-dem",
+      "defaultSourceChannel": "@williamreportsnews",
+      "requireSourceChannel": true,
+      "keywordSlugs": {
+        "aa anti-dem": "aa-anti-dem",
+        "aa anti dem": "aa-anti-dem",
+        "anti-dem": "anti-dem",
+        "anti dem": "anti-dem"
+      }
+    }
+  ]
+}
