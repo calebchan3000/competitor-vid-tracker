@@ -670,11 +670,11 @@
     "avatar": "https://yt3.ggpht.com/oJY3maBgdaOW0tCBn8Qo9rKBz9l1IZJMmKJU9xrk5_rHp1NibVCuAj_IfecI_1Z81u9-thD1LQ=s800-c-k-c0x00ffffff-no-rj",
     "url": "https://www.youtube.com/@theglobalshiftt",
     "subs": "9.1K subscribers",
-    "baselineVph": 11,
-    "baselineViews": 1718,
+    "baselineVph": 10,
+    "baselineViews": 1975,
     "uploadsPlaylist": "UUUg67VqpIelC6IlX1mlWDxg",
-    "ytUpdated": "2026-07-23",
-    "updated": "2026-07-23"
+    "ytUpdated": "2026-07-28",
+    "updated": "2026-07-28"
   },
   "@canadaupdate26": {
     "handle": "@canadaupdate26",
@@ -2797,5 +2797,29 @@
     "uploadsPlaylist": "UUYWIEbibRcZav6xMLo9qWWw",
     "ytUpdated": "2026-07-27",
     "updated": "2026-07-27"
+  },
+  "@capitalalert783q2q": {
+    "handle": "@capitalalert783q2q",
+    "channelId": "UCl27sWq7JSKWXB8oPPc5R-A",
+    "avatar": "https://yt3.ggpht.com/9v9NwjfMMFzI2Klw5oByDL2uvQLccsRnRQm-opWksjSlM0APcZ0VahRfMqwJGK0hd0u-oWzWhg=s800-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/@capitalalert783q2q",
+    "subs": "2.3K subscribers",
+    "baselineVph": 3,
+    "baselineViews": 2471,
+    "uploadsPlaylist": "UUl27sWq7JSKWXB8oPPc5R-A",
+    "ytUpdated": "2026-07-28",
+    "updated": "2026-07-28"
+  },
+  "@saveamericans": {
+    "handle": "@saveamericans",
+    "channelId": "UCrIvFVh6UKN8qGJrTlxaOsw",
+    "avatar": "https://yt3.ggpht.com/hEc-LZEDAVEKL6193BRJz_81gmkdMGgV3-drADGtAOHkwKkvSSMdacrhFGpNRgRqsI62UiZGXuA=s800-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/@saveamericans",
+    "subs": "3.4K subscribers",
+    "baselineVph": 40,
+    "baselineViews": 10490,
+    "uploadsPlaylist": "UUrIvFVh6UKN8qGJrTlxaOsw",
+    "ytUpdated": "2026-07-28",
+    "updated": "2026-07-28"
   }
 }

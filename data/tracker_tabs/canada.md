@@ -3,7 +3,7 @@ slug: canada
 niche: Canada
 portfolio: Casgains Enterprises
 created: 2026-07-21
-updated: 2026-07-27
+updated: 2026-07-28
 ---
 
 ### TARGET NICHE: Canada
@@ -15,7 +15,7 @@ updated: 2026-07-27
   - @theplanetd | 139K subscribers | 220
   - @thedamagereport | 1.4M subscribers | 720
 - **Rising Competitors:**
-  - @theglobalshiftt | 9.1K subscribers | 11
+  - @theglobalshiftt | 9.1K subscribers | 10
   - @canadaupdate26 | 7.7K subscribers | 22
   - @moneysignals-p9e | 5.3K subscribers | 21
   - @dalynewstruth | 1.5K subscribers | 23
@@ -35,7 +35,8 @@ updated: 2026-07-27
   - @dailynewsreport-h1t | 6.7K subscribers | 511
   - @canadapoliticalwire | 2.3K subscribers | 1
   - @laurahayespoint | 3.2K subscribers | 694
-- **Ingested Vision Registry:** 2026-07-27 | 24 channels | 187 videos
+  - @capitalalert783q2q | 2.3K subscribers | 3
+- **Ingested Vision Registry:** 2026-07-28 | 26 channels | 200 videos
 
 #### Content Performance Engine
 
@@ -228,3 +229,16 @@ updated: 2026-07-27
 | Carney’s STUNNING Bridge Snub Puts Trump’s Farmer Crisis on Full Display | @canadapoliticalwire | qzDtVVkjO78 | 2026-07-23 | 30792 | 308 | 85.06 | Viral Anomaly | edsel-sheet | youtube/user-provided | 2026-07-27 |
 | Carney Got the Call From Trump - His Answer Just Changed the Negotiation | @laurahayespoint | tQQSf5Nv0_s | 2026-07-23 | 126210 | 1313 | 59.23 | Viral Anomaly | edsel-sheet | youtube/user-provided | 2026-07-27 |
 | Trump Consequences CRASH Down As Canada Data Proves Major Plunge | @thedamagereport | pn951f-Xus4 | 2026-07-25 | 185197 | 3636 | 7.08 | Viral Anomaly | edsel-sheet, real-person | youtube/user-provided | 2026-07-27 |
+| Trump Taxed Canada's Aluminum — Now America Pays $4,000 Per Tonne | @capitalalert783q2q | 62BztCXp4iU | 2026-07-05 | 152240 | 274 | 61.61 | Viral Anomaly | pro-canada | youtube/user-provided | 2026-07-28 |
+| 3 MINS AGO: Canada JUST Cut Off OIL For America Forever? - America Oil Industry In TROUBLE | @theglobalshiftt | JsBwzm1_HlQ | 2026-07-27 | 320 | 21 | 0.16 | Baseline |  | youtube | 2026-07-28 |
+| Canada Just Sent Trump a Message He Never Expected! | @theglobalshiftt | 3-afrSvYr1w | 2026-07-27 | 1285 | 78 | 0.65 | Baseline |  | youtube | 2026-07-28 |
+| BREAKING: Carney Just CHECKMATED Trump — Canada PREPARES FOR WAR! | @theglobalshiftt | mk4brLZKbG4 | 2026-07-27 | 1327 | 72 | 0.67 | Baseline |  | youtube | 2026-07-28 |
+| All States Just Sided With Canada to REJECT Trump’s 10% Forced Labor Tariffs!! | @theglobalshiftt | I-eDDyDV_JU | 2026-07-26 | 371 | 10 | 0.19 | Baseline |  | youtube | 2026-07-28 |
+| Canada Just Refused America's CUSMA Boycott Calling new 50% Tariffs an “Unacceptable Attack” | @theglobalshiftt | Q303zUO75nU | 2026-07-26 | 1082 | 27 | 0.55 | Baseline |  | youtube | 2026-07-28 |
+| INSANE! Ford BASHES Trump Over 50% Tariffs on Canadian Goods! | @theglobalshiftt | TkUBDbNmE20 | 2026-07-26 | 423 | 9 | 0.21 | Baseline |  | youtube | 2026-07-28 |
+| Canada CANCELS Major U.S. Trade Deals In an Historic Retaliation - Trade War Escalates! | @theglobalshiftt | 10NRj7u5U8c | 2026-07-25 | 2770 | 44 | 1.4 | Baseline |  | youtube | 2026-07-28 |
+| This Is Why Canada REFUSED to Invite U.S. to Historic Gordie Howe Bridge Opening | @theglobalshiftt | LYvKwv6UB4M | 2026-07-25 | 2279 | 36 | 1.15 | Baseline |  | youtube | 2026-07-28 |
+| JUST IN: Carney FIRES BACK at Washington — Canada Ready to Fight Trade War Until the End | @theglobalshiftt | b7qSSfxEsb0 | 2026-07-25 | 1387 | 21 | 0.7 | Baseline |  | youtube | 2026-07-28 |
+| 3 MINS AGO: Ford Warns Trump That We Will Dismantle U.S With Energy Boycotts | @theglobalshiftt | uLQbsLP2Eug | 2026-07-24 | 4081 | 46 | 2.07 | Minor Outlier |  | youtube | 2026-07-28 |
+| 1 MINS AGO:Canada Just Cuts Off American Booze Forever— U.S. Alcohol Industry Destroyed! | @theglobalshiftt | JX4DNGviqIs | 2026-07-24 | 14796 | 162 | 7.49 | Viral Anomaly |  | youtube | 2026-07-28 |
+| Trump Accidentally DESTROYS U.S. Housing With 50% Tarrifs on Canadian Lumber | @theglobalshiftt | dZFU1ur2BW0 | 2026-07-23 | 10794 | 98 | 5.47 | Viral Anomaly |  | youtube | 2026-07-28 |
