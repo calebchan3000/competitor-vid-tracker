@@ -14,6 +14,7 @@ import { renderHome, renderTab, layout } from "./lib/render.mjs";
 import { upsertChannel } from "./lib/channels.mjs";
 import { listSnapshots, snapshotImagePath } from "./lib/snapshots.mjs";
 import { trackCompetitor, trackAllCompetitors } from "./lib/enrich.mjs";
+import { ingestBatch } from "./lib/ingest.mjs";
 import { slugify, normalizeHandle } from "./lib/util.mjs";
 import { hasYouTube } from "./lib/config.mjs";
 
@@ -153,6 +154,12 @@ const server = http.createServer(async (req, res) => {
     const trackAllMatch = p.match(/^\/api\/tabs\/([^/]+)\/track-all$/);
     if (trackAllMatch && req.method === "POST") {
       const result = await trackAllCompetitors(decodeURIComponent(trackAllMatch[1]));
+      return json(res, { ok: true, ...result });
+    }
+    const ingestMatch = p.match(/^\/api\/tabs\/([^/]+)\/ingest$/);
+    if (ingestMatch && req.method === "POST") {
+      const body = JSON.parse(await readBody(req));
+      const result = ingestBatch(decodeURIComponent(ingestMatch[1]), body);
       return json(res, { ok: true, ...result });
     }
     if (p === "/api/upload" && req.method === "POST") {
