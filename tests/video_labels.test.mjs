@@ -401,5 +401,37 @@ test("audience tab competitors include relevant rows down to 1.5x", () => {
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
   assert.match(html, /Audience 1\.6x keeper/);
   assert.doesNotMatch(html, /Edsel 1\.6x still hidden/);
-  assert.match(html, /Audience-tab\/reference competitors that are also relevant outliers ≥1\.5×/);
+  assert.match(html, /other audience\/reference outliers include ≥1\.5×/);
+});
+
+test("audience section prioritizes actual YouTube Studio audience snapshot videos and caps Fox networks", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "Casgains",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 3, videos: 4 },
+    videos: [
+      { title: "Fox Business one", handle: "@foxbusiness", videoId: "foxbiz00001", publishDate: "2026-07-29", views: 200000, outlier: 2.3, source: "youtube" },
+      { title: "Fox Business two", handle: "@foxbusiness", videoId: "foxbiz00002", publishDate: "2026-07-29", views: 190000, outlier: 2.2, source: "youtube" },
+      { title: "Fox News one", handle: "@foxnews", videoId: "foxnews0001", publishDate: "2026-07-29", views: 220000, outlier: 2.1, source: "youtube" },
+      { title: "Real audience outlier", handle: "@smallcreator", videoId: "audout00001", publishDate: "2026-07-29", views: 80000, outlier: 1.8, source: "youtube" },
+    ],
+  };
+  const snapshots = [{
+    files: [],
+    audience: { videos: [
+      { title: "Studio audience exact A", handle: "@studioa", videoId: "studio00001", views: 12000, age: "5 days ago" },
+      { title: "Studio audience exact B", handle: "@studiob", videoId: "studio00002", views: 9000, age: "1 week ago" },
+    ] },
+  }];
+  const html = renderTab(tab, { horizon: 30, snapshots });
+  assert.match(html, /Audience tab competitors — YouTube Studio videos/);
+  assert.match(html, /Studio audience exact A/);
+  assert.match(html, /Studio audience exact B/);
+  assert.match(html, /Fox Business one/);
+  assert.doesNotMatch(html, /Fox Business two/);
+  assert.match(html, /Real audience outlier/);
 });
