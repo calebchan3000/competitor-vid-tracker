@@ -236,6 +236,12 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .inspiration-box { display: inline-flex; align-items: center; justify-content: center; gap: 4px; color: var(--muted); font-family: var(--mono); font-size: 10px; text-transform: uppercase; cursor: pointer; }
 .inspiration-box input { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
 .inspiration-box input:checked + span { color: var(--accent); }
+.c-dismiss { width: 38px; text-align: center; }
+.dismiss-video { border: 1px solid rgba(248,113,113,.45); background: rgba(248,113,113,.08); color: #fca5a5; border-radius: 999px; width: 24px; height: 24px; cursor: pointer; font-weight: 800; line-height: 1; }
+.dismiss-video:hover { background: rgba(248,113,113,.2); color: #fecaca; }
+.vrow.is-dismissed { opacity: .3; text-decoration: line-through; transition: opacity .18s ease; }
+.video-meta-line { margin-top: .2rem; font-size: .76rem; color: var(--muted); }
+.relevance-note { margin: .75rem 0 1rem; padding: .7rem .85rem; border: 1px solid rgba(56,189,248,.25); background: rgba(56,189,248,.07); border-radius: 12px; color: var(--muted); }
 .source-sections { display: flex; flex-direction: column; gap: 18px; }
 .source-section { border: 1px solid var(--line); border-radius: 10px; background: var(--bg-2); padding: 14px; }
 .source-section--style-picks { border-color: rgba(255,210,61,0.22); background: linear-gradient(180deg, rgba(255,210,61,0.04), var(--bg-2)); }

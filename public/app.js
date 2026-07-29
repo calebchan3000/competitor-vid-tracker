@@ -351,6 +351,41 @@
     }
   });
 
+  // ---- cross off weak/irrelevant titles ----------------------------------
+  document.addEventListener("click", async (e) => {
+    const btn = e.target.closest?.(".dismiss-video");
+    if (!btn) return;
+    e.preventDefault();
+    const slug = btn.dataset.slug;
+    if (!slug) return;
+    const row = btn.closest("tr");
+    btn.disabled = true;
+    try {
+      const r = await fetch(`/api/tabs/${encodeURIComponent(slug)}/dismiss`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          dismissed: true,
+          video: {
+            videoId: btn.dataset.videoId || "",
+            title: btn.dataset.videoTitle || "",
+            url: btn.dataset.videoUrl || "",
+            handle: btn.dataset.videoHandle || "",
+          },
+        }),
+      });
+      const data = await r.json();
+      if (!data.ok) throw new Error(data.error || "failed");
+      if (row) {
+        row.classList.add("is-dismissed");
+        setTimeout(() => row.remove(), 180);
+      }
+    } catch (err) {
+      btn.disabled = false;
+      alert(`Could not cross off title: ${err.message}`);
+    }
+  });
+
   // ---- table sorting -----------------------------------------------------
   $$("table#engine th[data-sort], table.engine-table th[data-sort]").forEach((th) => {
     th.style.cursor = "pointer";

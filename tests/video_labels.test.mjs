@@ -257,3 +257,62 @@ test("niche tab renders inspiration checkboxes and compiled official inspiration
   assert.match(html, /href="https:\/\/www\.youtube\.com\/watch\?v=p1234567890"/);
   assert.match(html, /Chosen inspiration/);
 });
+
+test("niche tab narrows to relevant outliers and drops weak 0.1x rows", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 2, videos: 3 },
+    videos: [
+      { title: "Weak baseline noise", handle: "@weak", videoId: "w1234567890", publishDate: "2026-07-29", views: 100000, outlier: 0.1, tier: "Baseline", labels: [], source: "youtube/user-provided", firstSeen: "2026-07-29" },
+      { title: "Off niche cooking spike", handle: "@cook", videoId: "c1234567890", publishDate: "2026-07-29", views: 100000, outlier: 10, tier: "Viral Anomaly", labels: ["cooking/food one-off"], source: "youtube-home-style-discovery", firstSeen: "2026-07-29" },
+      { title: "Relevant outlier", handle: "@good", videoId: "g1234567890", publishDate: "2026-07-29", views: 25000, outlier: 3.1, tier: "Major Outlier", labels: ["ai-avatar"], source: "youtube/user-provided", firstSeen: "2026-07-29" },
+    ],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.match(html, /Relevant outlier/);
+  assert.doesNotMatch(html, /Weak baseline noise/);
+  assert.doesNotMatch(html, /Off niche cooking spike/);
+  assert.match(html, /Actionable relevance system/);
+});
+
+test("Edsel subsection renders before audience section and shows added date plus dismiss X", () => {
+  const tab = {
+    slug: "canada",
+    niche: "Canada",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 2, videos: 2 },
+    videos: [
+      { title: "Audience outlier", handle: "@aud", videoId: "a1234567890", publishDate: "2026-07-29", views: 50000, outlier: 3.2, tier: "Major Outlier", labels: [], source: "youtube", firstSeen: "2026-07-20" },
+      { title: "Edsel outlier", handle: "@edsel", videoId: "e1234567890", publishDate: "2026-07-29", views: 60000, outlier: 4.4, tier: "Major Outlier", labels: ["edsel-sheet", "ai-avatar"], source: "youtube/user-provided", firstSeen: "2026-07-28" },
+    ],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.ok(html.indexOf("Edsel / AI avatar / up-and-coming style videos") < html.indexOf("Audience tab competitors"));
+  assert.match(html, /Edsel added 2026-07-28/);
+  assert.match(html, /class="dismiss-video"/);
+  assert.match(html, /data-video-id="e1234567890"/);
+});
+
+test("dismissed videos are removed from actionable niche sections", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 1, videos: 1 },
+    videos: [{ title: "Dismiss me", handle: "@gone", videoId: "d1234567890", publishDate: "2026-07-29", views: 50000, outlier: 4.1, tier: "Major Outlier", labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" }],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [], dismissed: [{ videoId: "d1234567890" }] });
+  assert.doesNotMatch(html, /Dismiss me/);
+  assert.match(html, /No videos in this subsection/);
+});
