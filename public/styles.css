@@ -55,7 +55,7 @@ h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.08em; color: 
 .topnav a { color: var(--muted); font-size: 13px; padding: 4px 0; border-bottom: 2px solid transparent; }
 .topnav a:hover, .topnav a.is-active { color: var(--text); border-color: var(--accent); }
 
-.wrap { max-width: 1180px; margin: 0 auto; padding: 26px 28px 80px; }
+.wrap { max-width: 1480px; margin: 0 auto; padding: 26px 28px 80px; }
 
 /* ---- stats ---- */
 .stats-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 24px; }
@@ -135,8 +135,8 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .new-tab-form input { flex: 1; min-width: 180px; }
 
 /* ---- tables ---- */
-.table-scroll { overflow-x: auto; margin: 0 -4px; }
-.vtable { width: 100%; border-collapse: collapse; font-size: 13px; }
+.table-scroll { overflow-x: visible; margin: 0; }
+.vtable { width: 100%; border-collapse: collapse; font-size: 12.5px; table-layout: auto; }
 .vtable th { text-align: left; color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; padding: 8px 10px; border-bottom: 1px solid var(--line-2); white-space: nowrap; }
 .vtable td { padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
 .vtable tbody tr:hover { background: var(--panel-2); }
@@ -236,9 +236,7 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .inspiration-box { display: inline-flex; align-items: center; justify-content: center; gap: 4px; color: var(--muted); font-family: var(--mono); font-size: 10px; text-transform: uppercase; cursor: pointer; }
 .inspiration-box input { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
 .inspiration-box input:checked + span { color: var(--accent); }
-.c-dismiss { width: 38px; text-align: center; }
-.dismiss-video { border: 1px solid rgba(248,113,113,.45); background: rgba(248,113,113,.08); color: #fca5a5; border-radius: 999px; width: 24px; height: 24px; cursor: pointer; font-weight: 800; line-height: 1; }
-.dismiss-video:hover { background: rgba(248,113,113,.2); color: #fecaca; }
+
 .vrow.is-dismissed { opacity: .3; text-decoration: line-through; transition: opacity .18s ease; }
 .video-meta-line { margin-top: .2rem; font-size: .76rem; color: var(--muted); }
 .relevance-note { margin: .75rem 0 1rem; padding: .7rem .85rem; border: 1px solid rgba(56,189,248,.25); background: rgba(56,189,248,.07); border-radius: 12px; color: var(--muted); }

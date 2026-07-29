@@ -280,7 +280,7 @@ test("niche tab narrows to relevant outliers and drops weak 0.1x rows", () => {
   assert.match(html, /Actionable relevance system/);
 });
 
-test("Edsel subsection renders before audience section and shows added date plus dismiss X", () => {
+test("Edsel subsection renders before audience section and shows added date", () => {
   const tab = {
     slug: "canada",
     niche: "Canada",
@@ -295,10 +295,11 @@ test("Edsel subsection renders before audience section and shows added date plus
     ],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
-  assert.ok(html.indexOf("Edsel / AI avatar / up-and-coming style videos") < html.indexOf("Audience tab competitors"));
+  const edselIndex = html.indexOf('source-section--style-picks');
+  const audienceIndex = html.indexOf('source-section--audience-tab');
+  assert.ok(edselIndex > -1 && audienceIndex > -1 && edselIndex < audienceIndex);
   assert.match(html, /Edsel added 2026-07-28/);
-  assert.match(html, /class="dismiss-video"/);
-  assert.match(html, /data-video-id="e1234567890"/);
+  assert.doesNotMatch(html, /class="dismiss-video"/);
 });
 
 test("dismissed videos are removed from actionable niche sections", () => {
@@ -315,4 +316,41 @@ test("dismissed videos are removed from actionable niche sections", () => {
   const html = renderTab(tab, { horizon: 7, snapshots: [], dismissed: [{ videoId: "d1234567890" }] });
   assert.doesNotMatch(html, /Dismiss me/);
   assert.match(html, /No videos in this subsection/);
+});
+
+test("niche tab does not render the dismissed X button or horizontal table scroll wrapper", () => {
+  const tab = {
+    slug: "canada",
+    niche: "Canada",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 1, videos: 1 },
+    videos: [{ title: "Clean row", handle: "@clean", videoId: "x1234567890", publishDate: "2026-07-29", views: 50000, outlier: 4.1, tier: "Major Outlier", labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" }],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.doesNotMatch(html, /class="dismiss-video"/);
+  assert.doesNotMatch(html, /class="table-scroll"/);
+  assert.doesNotMatch(html, /<th class="c-dismiss">X<\/th>/);
+});
+
+test("audience tab competitors include relevant rows down to 1.5x", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 2, videos: 2 },
+    videos: [
+      { title: "Audience 1.6x keeper", handle: "@aud", videoId: "a1xkeeper00", publishDate: "2026-07-29", views: 25000, outlier: 1.6, tier: "Watch", labels: [], source: "youtube", firstSeen: "2026-07-29" },
+      { title: "Edsel 1.6x still hidden", handle: "@edsel", videoId: "e1xhidden00", publishDate: "2026-07-29", views: 25000, outlier: 1.6, tier: "Watch", labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" },
+    ],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.match(html, /Audience 1\.6x keeper/);
+  assert.doesNotMatch(html, /Edsel 1\.6x still hidden/);
+  assert.match(html, /Audience-tab\/reference competitors that are also relevant outliers ≥1\.5×/);
 });
