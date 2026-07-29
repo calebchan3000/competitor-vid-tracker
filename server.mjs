@@ -114,8 +114,24 @@ function handleUpload(payload) {
     fs.writeFileSync(path.join(dir, fname), decoded.buffer);
     saved.push(fname);
   });
-  const manifest = { id, slug, sourceChannel, created: new Date().toISOString(), count: saved.length, files: saved, status: "saved" };
+  const manifest = {
+    id,
+    slug,
+    sourceChannel,
+    sourceChannelCanonical: payload.sourceChannelCanonical || payload.canonicalChannel || "",
+    actualNiche: payload.actualNiche || payload.canonicalNiche || "",
+    created: payload.created || new Date().toISOString(),
+    count: saved.length,
+    files: saved,
+    status: "saved",
+    intake: payload.intake || "upload",
+    discord: payload.discord || undefined,
+    sheetCrossCheck: payload.sheetCrossCheck || undefined,
+  };
   fs.writeFileSync(path.join(dir, "manifest.json"), JSON.stringify(manifest, null, 2));
+  if (payload.audience && typeof payload.audience === "object") {
+    fs.writeFileSync(path.join(dir, "audience.json"), JSON.stringify(payload.audience, null, 2));
+  }
   return manifest;
 }
 
