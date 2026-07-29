@@ -236,7 +236,8 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .inspiration-box { display: inline-flex; align-items: center; justify-content: center; gap: 4px; color: var(--muted); font-family: var(--mono); font-size: 10px; text-transform: uppercase; cursor: pointer; }
 .inspiration-box input { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
 .inspiration-box input:checked + span { color: var(--accent); }
-
+.dismiss-video--inline { display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; margin-left: 7px; transform: translateY(-1px); border: 0; border-radius: 999px; background: transparent; color: rgba(148,163,184,.72); font-size: 14px; font-weight: 700; line-height: 1; cursor: pointer; vertical-align: middle; }
+.dismiss-video--inline:hover, .dismiss-video--inline:focus-visible { background: rgba(248,113,113,.12); color: #fca5a5; outline: none; }
 .vrow.is-dismissed { opacity: .3; text-decoration: line-through; transition: opacity .18s ease; }
 .video-meta-line { margin-top: .2rem; font-size: .76rem; color: var(--muted); }
 .relevance-note { margin: .75rem 0 1rem; padding: .7rem .85rem; border: 1px solid rgba(56,189,248,.25); background: rgba(56,189,248,.07); border-radius: 12px; color: var(--muted); }

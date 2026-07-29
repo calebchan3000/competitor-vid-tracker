@@ -280,7 +280,7 @@ test("niche tab narrows to relevant outliers and drops weak 0.1x rows", () => {
   assert.match(html, /Actionable relevance system/);
 });
 
-test("Edsel subsection renders before audience section and shows added date", () => {
+test("Edsel subsection renders before audience section and shows added date plus subtle inline X", () => {
   const tab = {
     slug: "canada",
     niche: "Canada",
@@ -299,7 +299,9 @@ test("Edsel subsection renders before audience section and shows added date", ()
   const audienceIndex = html.indexOf('source-section--audience-tab');
   assert.ok(edselIndex > -1 && audienceIndex > -1 && edselIndex < audienceIndex);
   assert.match(html, /Edsel added 2026-07-28/);
-  assert.doesNotMatch(html, /class="dismiss-video"/);
+  assert.match(html, /class="dismiss-video dismiss-video--inline"/);
+  assert.match(html, /aria-label="Hide this title"/);
+  assert.doesNotMatch(html, /<th class="c-dismiss">X<\/th>/);
 });
 
 test("dismissed videos are removed from actionable niche sections", () => {
@@ -318,7 +320,7 @@ test("dismissed videos are removed from actionable niche sections", () => {
   assert.match(html, /No videos in this subsection/);
 });
 
-test("niche tab does not render the dismissed X button or horizontal table scroll wrapper", () => {
+test("niche tab renders subtle inline X without a dismiss column or horizontal table scroll wrapper", () => {
   const tab = {
     slug: "canada",
     niche: "Canada",
@@ -330,7 +332,7 @@ test("niche tab does not render the dismissed X button or horizontal table scrol
     videos: [{ title: "Clean row", handle: "@clean", videoId: "x1234567890", publishDate: "2026-07-29", views: 50000, outlier: 4.1, tier: "Major Outlier", labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" }],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
-  assert.doesNotMatch(html, /class="dismiss-video"/);
+  assert.match(html, /class="dismiss-video dismiss-video--inline"/);
   assert.doesNotMatch(html, /class="table-scroll"/);
   assert.doesNotMatch(html, /<th class="c-dismiss">X<\/th>/);
 });
