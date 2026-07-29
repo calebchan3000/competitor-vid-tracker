@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 
 import { parseTab, serializeTab } from "../lib/tabs.mjs";
@@ -335,6 +336,14 @@ test("niche tab renders subtle inline X without a dismiss column or horizontal t
   assert.match(html, /class="dismiss-video dismiss-video--inline"/);
   assert.doesNotMatch(html, /class="table-scroll"/);
   assert.doesNotMatch(html, /<th class="c-dismiss">X<\/th>/);
+});
+
+test("dismiss X is visibly red but remains inline beside titles", () => {
+  const css = readFileSync(new URL("../public/styles.css", import.meta.url), "utf8");
+  assert.match(css, /\.dismiss-video--inline \{/);
+  assert.match(css, /color:\s*#f87171/);
+  assert.match(css, /border:\s*1px solid rgba\(248,113,113/);
+  assert.doesNotMatch(css, /\.c-dismiss/);
 });
 
 test("audience tab competitors include relevant rows down to 1.5x", () => {
