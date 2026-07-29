@@ -386,6 +386,51 @@
     }
   });
 
+  // ---- per-title instructions / move commands ----------------------------
+  document.addEventListener("submit", async (e) => {
+    const form = e.target.closest?.(".video-command-form");
+    if (!form) return;
+    e.preventDefault();
+    const slug = form.dataset.slug;
+    const input = form.querySelector(".video-command-input");
+    const status = form.querySelector(".video-command-status");
+    const btn = form.querySelector(".video-command-btn");
+    const instruction = input?.value.trim() || "";
+    if (!slug || !instruction) return;
+    if (status) { status.className = "video-command-status"; status.textContent = "saving…"; }
+    if (btn) btn.disabled = true;
+    try {
+      const r = await fetch(`/api/tabs/${encodeURIComponent(slug)}/video-command`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          instruction,
+          video: {
+            videoId: form.dataset.videoId || "",
+            title: form.dataset.videoTitle || "",
+            url: form.dataset.videoUrl || "",
+            handle: form.dataset.videoHandle || "",
+          },
+        }),
+      });
+      const data = await r.json();
+      if (!data.ok) throw new Error(data.error || "failed");
+      if (status) { status.className = "video-command-status is-ok"; status.textContent = data.message || "saved"; }
+      if (data.action === "move") {
+        const row = form.closest("tr");
+        if (row) {
+          row.classList.add("is-dismissed");
+          setTimeout(() => row.remove(), 300);
+        }
+      } else if (input) input.value = "";
+    } catch (err) {
+      if (status) { status.className = "video-command-status is-err"; status.textContent = err.message; }
+      if (btn) btn.disabled = false;
+      return;
+    }
+    if (btn) btn.disabled = false;
+  });
+
   // ---- table sorting -----------------------------------------------------
   $$("table#engine th[data-sort], table.engine-table th[data-sort]").forEach((th) => {
     th.style.cursor = "pointer";

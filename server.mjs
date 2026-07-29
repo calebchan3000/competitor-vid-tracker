@@ -9,13 +9,14 @@ import path from "node:path";
 import { URL } from "node:url";
 
 import { PUBLIC_DIR, UPLOADS_PENDING } from "./lib/paths.mjs";
-import { listTabs, loadTab, createTab, addChannels } from "./lib/tabs.mjs";
+import { listTabs, loadTab, saveTab, createTab, addChannels } from "./lib/tabs.mjs";
 import { renderHome, renderTab, layout } from "./lib/render.mjs";
 import { upsertChannel } from "./lib/channels.mjs";
 import { listSnapshots, snapshotImagePath } from "./lib/snapshots.mjs";
 import { trackCompetitor, trackAllCompetitors } from "./lib/enrich.mjs";
 import { ingestBatch } from "./lib/ingest.mjs";
-import { listInspiration, setInspiration, setDismissed } from "./lib/inspiration.mjs";
+import { listInspiration, setInspiration, setDismissed, setInstructionNote } from "./lib/inspiration.mjs";
+import { parseVideoInstruction, applyVideoInstructionToTabs } from "./lib/video_instructions.mjs";
 import { slugify, normalizeHandle } from "./lib/util.mjs";
 import { hasYouTube } from "./lib/config.mjs";
 
@@ -174,6 +175,25 @@ const server = http.createServer(async (req, res) => {
       const body = JSON.parse(await readBody(req));
       const result = setDismissed(decodeURIComponent(dismissMatch[1]), body.video || {}, body.dismissed !== false);
       return json(res, { ok: true, ...result });
+    }
+    const commandMatch = p.match(/^\/api\/tabs\/([^/]+)\/video-command$/);
+    if (commandMatch && req.method === "POST") {
+      const slug = decodeURIComponent(commandMatch[1]);
+      const body = JSON.parse(await readBody(req));
+      const sourceTab = loadTab(slug);
+      if (!sourceTab) return json(res, { ok: false, error: `no tab "${slug}"` }, 404);
+      const parsed = parseVideoInstruction(body.instruction || "");
+      if (parsed.action === "empty") return json(res, { ok: false, error: "instruction required" }, 400);
+      if (parsed.action === "move") {
+        const targetTab = loadTab(parsed.targetSlug);
+        if (!targetTab) return json(res, { ok: false, error: `target tab "${parsed.targetSlug}" not found` }, 404);
+        const result = applyVideoInstructionToTabs({ sourceTab, targetTab, video: body.video || {}, instruction: body.instruction || "" });
+        saveTab(sourceTab);
+        saveTab(targetTab);
+        return json(res, { ok: true, ...result, message: `moved to ${targetTab.niche}` });
+      }
+      const notes = setInstructionNote(slug, body.video || {}, parsed.note);
+      return json(res, { ok: true, action: "note", notes: notes.instructions.length, message: "note saved" });
     }
     if (p === "/api/upload" && req.method === "POST") {
       const body = JSON.parse(await readBody(req));

@@ -5,6 +5,7 @@ import test from "node:test";
 import { parseTab, serializeTab } from "../lib/tabs.mjs";
 import { labelVideoForDiscovery } from "../lib/video_labels.mjs";
 import { renderHome, renderTab } from "../lib/render.mjs";
+import { parseVideoInstruction, applyVideoInstructionToTabs } from "../lib/video_instructions.mjs";
 
 test("video labels round-trip through tracker tab markdown", () => {
   const tab = {
@@ -344,6 +345,43 @@ test("dismiss X is visibly red but remains inline beside titles", () => {
   assert.match(css, /color:\s*#f87171/);
   assert.match(css, /border:\s*1px solid rgba\(248,113,113/);
   assert.doesNotMatch(css, /\.c-dismiss/);
+});
+
+test("video rows render an instruction box for moving or notes", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "Casgains",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-29", channels: 1, videos: 1 },
+    videos: [{ title: "Move me", handle: "@source", videoId: "mv123456789", publishDate: "2026-07-29", views: 50000, outlier: 4.2, labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" }],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.match(html, /class="video-command-form"/);
+  assert.match(html, /placeholder="move to anti maga, british, canada, or add note…"/);
+  assert.match(html, /data-video-id="mv123456789"/);
+});
+
+test("move instruction moves a video between tabs and removes it from source", () => {
+  assert.deepEqual(parseVideoInstruction("move to anti maga"), { action: "move", targetSlug: "anti-maga" });
+  assert.deepEqual(parseVideoInstruction("move to british"), { action: "move", targetSlug: "british-news" });
+  const source = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    directCompetitors: [{ handle: "@source", size: "50K", baselineVph: 100 }],
+    risingCompetitors: [],
+    registry: {},
+    videos: [{ title: "Move me", handle: "@source", videoId: "mv123456789", publishDate: "2026-07-29", views: 50000, vph: 900, outlier: 4.2, tier: "Major Outlier", labels: ["edsel-sheet"], source: "youtube/user-provided", firstSeen: "2026-07-29" }],
+  };
+  const target = { slug: "anti-maga", niche: "Anti MAGA", directCompetitors: [], risingCompetitors: [], registry: {}, videos: [] };
+  const result = applyVideoInstructionToTabs({ sourceTab: source, targetTab: target, video: source.videos[0], instruction: "move to anti maga" });
+  assert.equal(result.action, "move");
+  assert.equal(source.videos.length, 0);
+  assert.equal(target.videos.length, 1);
+  assert.equal(target.videos[0].videoId, "mv123456789");
+  assert.ok(target.videos[0].labels.includes("moved-from-anti-dem"));
 });
 
 test("audience tab competitors include relevant rows down to 1.5x", () => {
