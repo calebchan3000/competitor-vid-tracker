@@ -14,6 +14,7 @@ updated: 2026-07-28
   - @bnnbloomberg | 178K subscribers | 33
   - @theplanetd | 139K subscribers | 220
   - @thedamagereport | 1.4M subscribers | 720
+  - @jasminlaine | 217K subscribers | 332
 - **Rising Competitors:**
   - @theglobalshiftt | 9.1K subscribers | 10
   - @canadaupdate26 | 7.7K subscribers | 22
@@ -36,7 +37,7 @@ updated: 2026-07-28
   - @canadapoliticalwire | 2.3K subscribers | 1
   - @laurahayespoint | 3.2K subscribers | 694
   - @capitalalert783q2q | 2.3K subscribers | 3
-- **Ingested Vision Registry:** 2026-07-28 | 26 channels | 200 videos
+- **Ingested Vision Registry:** 2026-07-28 | 26 channels | 213 videos
 
 #### Content Performance Engine
 
@@ -242,3 +243,16 @@ updated: 2026-07-28
 | 3 MINS AGO: Ford Warns Trump That We Will Dismantle U.S With Energy Boycotts | @theglobalshiftt | uLQbsLP2Eug | 2026-07-24 | 4081 | 46 | 2.07 | Minor Outlier |  | youtube | 2026-07-28 |
 | 1 MINS AGO:Canada Just Cuts Off American Booze Forever— U.S. Alcohol Industry Destroyed! | @theglobalshiftt | JX4DNGviqIs | 2026-07-24 | 14796 | 162 | 7.49 | Viral Anomaly |  | youtube | 2026-07-28 |
 | Trump Accidentally DESTROYS U.S. Housing With 50% Tarrifs on Canadian Lumber | @theglobalshiftt | dZFU1ur2BW0 | 2026-07-23 | 10794 | 98 | 5.47 | Viral Anomaly |  | youtube | 2026-07-28 |
+| "Carney Cult BS!" \| Republicans and Democrats united Against Canada on this... | @jasminlaine | kUH9g7X81oY | 2026-07-27 | 107659 | 5295 | 1.34 | Baseline |  | youtube | 2026-07-28 |
+| Is Trump About to Crush Canada? U.S. Ambassador Gives Trade War Reality Check | @jasminlaine | Y6YarkH44G8 | 2026-07-24 | 76916 | 833 | 0.96 | Baseline |  | youtube | 2026-07-28 |
+| 'Dirty Secret..." \| Mark Carney's Trade Deal Just Blew Up In Canada's Face | @jasminlaine | IJ0yNz0JkGU | 2026-07-23 | 75657 | 650 | 0.94 | Baseline |  | youtube | 2026-07-28 |
+| "Mark Carney Doesn't Want A Trade Deal" \| Canadian Politician Embarrasses Himself On Camera | @jasminlaine | AAcq7T5GKI4 | 2026-07-22 | 102882 | 733 | 1.28 | Baseline |  | youtube | 2026-07-28 |
+| "He's A Bully!" \| Why Trump Isn't Budging On Canada... He Named Names | @jasminlaine | YOYXKiuYvvY | 2026-07-21 | 85452 | 520 | 1.06 | Baseline |  | youtube | 2026-07-28 |
+| 'You Asked For This...' \| Canada's Biggest Mistake Just Got Exposed by Trump's New Tariff | @jasminlaine | zBJfBdGpD3Q | 2026-07-20 | 105474 | 560 | 1.31 | Baseline |  | youtube | 2026-07-28 |
+| "Don't Trust Him!" \| Carney's Biggest Problem Isn't Conservatives Anymore | @jasminlaine | Lme6YGDXZEo | 2026-07-18 | 79307 | 336 | 0.99 | Baseline |  | youtube | 2026-07-28 |
+| Trump's White House Delivers A Brutal Reality Check For Carney | @jasminlaine | lo8E7U-vibE | 2026-07-17 | 80506 | 309 | 1 | Baseline |  | youtube | 2026-07-28 |
+| "93% Are From The Left" CSIS Report Proves Trump Right \| Canada A No Show... | @jasminlaine | tOp_OotKJu8 | 2026-07-16 | 103218 | 363 | 1.28 | Baseline |  | youtube | 2026-07-28 |
+| Canadian Woman's Violent Reaction to Trump Shirt Ends in ICE Detainment | @jasminlaine | HwpXS_2HMvo | 2026-07-15 | 66101 | 214 | 0.82 | Baseline |  | youtube | 2026-07-28 |
+| "That's Not Real..." \| Trump's Pentagon Just Warned Canada About Carneys Plan | @jasminlaine | aty41yxmiDk | 2026-07-14 | 110478 | 332 | 1.37 | Baseline |  | youtube | 2026-07-28 |
+| "Damn, It's Fun To Watch" \| CBC Panel Celebrates Alleged Conservative Collapse | @jasminlaine | cu8u8eyzimg | 2026-07-13 | 105698 | 297 | 1.31 | Baseline |  | youtube | 2026-07-28 |
+| Trump's Biggest Trade Miscalculation? \| Mark Carney's Strategy Shocks Washington | @dailynewsreport-h1t | uJTULrWx6qI | 2026-07-27 | 29016 | 1298 | 9.49 | Viral Anomaly | pro-canada | youtube/user-provided | 2026-07-28 |

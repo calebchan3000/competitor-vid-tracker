@@ -15,6 +15,7 @@ import { upsertChannel } from "./lib/channels.mjs";
 import { listSnapshots, snapshotImagePath } from "./lib/snapshots.mjs";
 import { trackCompetitor, trackAllCompetitors } from "./lib/enrich.mjs";
 import { ingestBatch } from "./lib/ingest.mjs";
+import { listInspiration, setInspiration } from "./lib/inspiration.mjs";
 import { slugify, normalizeHandle } from "./lib/util.mjs";
 import { hasYouTube } from "./lib/config.mjs";
 
@@ -162,6 +163,12 @@ const server = http.createServer(async (req, res) => {
       const result = ingestBatch(decodeURIComponent(ingestMatch[1]), body);
       return json(res, { ok: true, ...result });
     }
+    const inspirationMatch = p.match(/^\/api\/tabs\/([^/]+)\/inspiration$/);
+    if (inspirationMatch && req.method === "POST") {
+      const body = JSON.parse(await readBody(req));
+      const result = setInspiration(decodeURIComponent(inspirationMatch[1]), body.video || {}, body.selected !== false);
+      return json(res, { ok: true, ...result });
+    }
     if (p === "/api/upload" && req.method === "POST") {
       const body = JSON.parse(await readBody(req));
       const manifest = handleUpload(body);
@@ -177,7 +184,7 @@ const server = http.createServer(async (req, res) => {
       const slug = decodeURIComponent(tabMatch[1]);
       const tab = loadTab(slug);
       if (!tab) return html(res, layout("Not found", `<div class="panel panel--empty"><p>No niche “${slug}”. <a href="/">Back</a></p></div>`), 404);
-      return html(res, renderTab(tab, { horizon: url.searchParams.get("h") || 7, snapshots: listSnapshots(slug) }));
+      return html(res, renderTab(tab, { horizon: url.searchParams.get("h") || 7, snapshots: listSnapshots(slug), inspiration: listInspiration(slug).items }));
     }
 
     return html(res, layout("Not found", `<div class="panel panel--empty"><p>404 · <a href="/">Dashboard</a></p></div>`), 404);

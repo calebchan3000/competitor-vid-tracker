@@ -141,6 +141,7 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .vtable td { padding: 9px 10px; border-bottom: 1px solid var(--line); vertical-align: middle; }
 .vtable tbody tr:hover { background: var(--panel-2); }
 .vtable.small td, .vtable.small th { padding: 6px 8px; }
+.c-use { width: 64px; text-align: center; }
 .c-num { text-align: right; font-family: var(--mono); }
 .c-title { font-weight: 500; max-width: 360px; }
 .c-handle { color: var(--muted); font-family: var(--mono); font-size: 12px; }
@@ -226,6 +227,21 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .track-box .inline-add { margin: 0; }
 .track-box input { width: 320px; }
 .track-hint { font-size: 12px; }
+.inspiration-panel { border-color: rgba(55,230,176,0.22); background: linear-gradient(180deg, rgba(55,230,176,0.05), var(--panel)); }
+.inspiration-help { margin: -6px 0 10px; font-size: 12.5px; }
+.inspiration-list { margin: 0; padding-left: 22px; }
+.inspiration-list li { padding: 5px 0; border-bottom: 1px solid var(--line); }
+.inspiration-list a { color: var(--text); text-decoration: underline; text-decoration-color: var(--accent-dim); }
+.inspiration-empty { border: 0 !important; }
+.inspiration-box { display: inline-flex; align-items: center; justify-content: center; gap: 4px; color: var(--muted); font-family: var(--mono); font-size: 10px; text-transform: uppercase; cursor: pointer; }
+.inspiration-box input { width: 14px; height: 14px; accent-color: var(--accent); cursor: pointer; }
+.inspiration-box input:checked + span { color: var(--accent); }
+.source-sections { display: flex; flex-direction: column; gap: 18px; }
+.source-section { border: 1px solid var(--line); border-radius: 10px; background: var(--bg-2); padding: 14px; }
+.source-section--style-picks { border-color: rgba(255,210,61,0.22); background: linear-gradient(180deg, rgba(255,210,61,0.04), var(--bg-2)); }
+.source-section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 10px; }
+.source-section-head h3 { margin: 0; font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; }
+.source-section-head p { margin: 0; font-size: 12px; }
 .channel-filter { background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 0 0 14px; }
 .filter-head { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 8px; color: var(--text); font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; }
 .filter-head--secondary { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); color: var(--muted); }

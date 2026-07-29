@@ -265,7 +265,7 @@
     const countEl = $("#channel-filter-count");
     const selected = new Set();
     const labelSelected = new Set();
-    const rows = () => $$("table#engine tbody tr");
+    const rows = () => $$("table#engine tbody tr, table.engine-table tbody tr");
     const buttons = () => $$(".channel-filter-pill", channelFilter);
     const setFilter = () => {
       let visible = 0;
@@ -308,8 +308,51 @@
     });
   }
 
+
+  // ---- official inspiration checklist ------------------------------------
+  document.addEventListener("change", async (e) => {
+    const cb = e.target.closest?.(".inspiration-check");
+    if (!cb) return;
+    const slug = cb.dataset.slug;
+    if (!slug) return;
+    const selected = cb.checked;
+    cb.disabled = true;
+    try {
+      const r = await fetch(`/api/tabs/${encodeURIComponent(slug)}/inspiration`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          selected,
+          video: {
+            videoId: cb.dataset.videoId || "",
+            title: cb.dataset.videoTitle || "",
+            url: cb.dataset.videoUrl || "",
+            handle: cb.dataset.videoHandle || "",
+            source: cb.dataset.videoSource || "",
+            section: cb.dataset.sourceSection || "",
+          },
+        }),
+      });
+      const data = await r.json();
+      if (!data.ok) throw new Error(data.error || "failed");
+      const count = $("#inspiration-count");
+      if (count) count.textContent = `${data.items.length} selected`;
+      const list = $("#inspiration-list");
+      if (list) {
+        list.innerHTML = data.items.length
+          ? data.items.map((item) => `<li><a href="${item.url}" target="_blank" rel="noopener">${item.title || item.videoId || item.url}</a>${item.handle ? ` <span class="muted">${item.handle}</span>` : ""}</li>`).join("")
+          : `<li class="muted inspiration-empty">No official inspiration selected yet.</li>`;
+      }
+    } catch (err) {
+      cb.checked = !selected;
+      alert(`Could not save inspiration pick: ${err.message}`);
+    } finally {
+      cb.disabled = false;
+    }
+  });
+
   // ---- table sorting -----------------------------------------------------
-  $$("table#engine th[data-sort]").forEach((th) => {
+  $$("table#engine th[data-sort], table.engine-table th[data-sort]").forEach((th) => {
     th.style.cursor = "pointer";
     let asc = false;
     th.addEventListener("click", () => {

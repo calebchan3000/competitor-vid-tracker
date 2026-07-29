@@ -211,3 +211,49 @@ test("rendered channel filter includes a separate Edsel-only source button", () 
   assert.match(html, /Edsel only <span>1<\/span>/);
   assert.match(html, /data-labels="edsel-sheet"/);
 });
+
+test("niche tab separates audience competitors from AI avatar and up-and-coming picks", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-28", channels: 2, videos: 3 },
+    videos: [
+      { title: "Audience competitor baseline", handle: "@audiencepick", videoId: "a1234567890", publishDate: "2026-07-28", views: 20000, outlier: 1.4, tier: "Baseline", labels: [], source: "youtube" },
+      { title: "AI avatar sheet pick", handle: "@avatarpick", videoId: "b1234567890", publishDate: "2026-07-28", views: 30000, outlier: 3.4, tier: "Major Outlier", labels: ["edsel-sheet", "ai-avatar"], source: "youtube/user-provided" },
+      { title: "Discovery breakout", handle: "@discoverypick", videoId: "c1234567890", publishDate: "2026-07-28", views: 40000, outlier: 4.1, tier: "Major Outlier", labels: [], source: "youtube-home-style-discovery" },
+    ],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.match(html, /Audience tab competitors/);
+  assert.match(html, /AI avatar \/ up-and-coming style videos/);
+  assert.match(html, /data-source-section="audience-tab"/);
+  assert.match(html, /data-source-section="style-picks"/);
+  assert.match(html, /AI avatar sheet pick/);
+  assert.match(html, /Discovery breakout/);
+});
+
+test("niche tab renders inspiration checkboxes and compiled official inspiration list", () => {
+  const tab = {
+    slug: "anti-dem",
+    niche: "Anti Dem",
+    portfolio: "",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-28", channels: 1, videos: 2 },
+    videos: [
+      { title: "Chosen inspiration", handle: "@pick", videoId: "p1234567890", publishDate: "2026-07-28", views: 50000, outlier: 4.4, tier: "Major Outlier", labels: ["ai-avatar"], source: "youtube/user-provided" },
+      { title: "Not chosen", handle: "@other", videoId: "o1234567890", publishDate: "2026-07-28", views: 25000, outlier: 2.2, tier: "Minor Outlier", labels: [], source: "youtube" },
+    ],
+  };
+  const html = renderTab(tab, { horizon: 7, snapshots: [], inspiration: [{ videoId: "p1234567890", title: "Chosen inspiration", url: "https://www.youtube.com/watch?v=p1234567890", handle: "@pick" }] });
+  assert.match(html, /type="checkbox" class="inspiration-check"/);
+  assert.match(html, /data-video-id="p1234567890"[^>]+checked/);
+  assert.match(html, /Official inspiration list/);
+  assert.match(html, /href="https:\/\/www\.youtube\.com\/watch\?v=p1234567890"/);
+  assert.match(html, /Chosen inspiration/);
+});
