@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs";
 import test from "node:test";
 
 import { parseTab, serializeTab } from "../lib/tabs.mjs";
-import { labelVideoForDiscovery } from "../lib/video_labels.mjs";
+import { labelVideoForDiscovery, labelsIncludeAntiMaga, splitLabels } from "../lib/video_labels.mjs";
 import { renderHome, renderTab } from "../lib/render.mjs";
 import { parseVideoInstruction, applyVideoInstructionToTabs } from "../lib/video_instructions.mjs";
 import { thumbUrl } from "../lib/util.mjs";
@@ -47,6 +47,11 @@ test("discovery labels cooking and off-niche one-offs without rejecting them", (
     labelVideoForDiscovery({ slug: "anti-dem", niche: "Anti Dem", title: "Democrats Melt Down Over Trump Ruling", sourceWasSeed: false }),
     []
   );
+});
+
+test("anti-trump labels normalize to anti-maga", () => {
+  assert.deepEqual(splitLabels("edsel-sheet, anti-trump, anti maga, anti-maga"), ["edsel-sheet", "anti-maga"]);
+  assert.equal(labelsIncludeAntiMaga(["anti-trump"]), true);
 });
 
 test("rendered dashboard shows video label badges", () => {
@@ -411,6 +416,7 @@ test("video rows render an instruction box for moving or notes", () => {
 
 test("move instruction moves a video between tabs and removes it from source", () => {
   assert.deepEqual(parseVideoInstruction("move to anti maga"), { action: "move", targetSlug: "anti-maga" });
+  assert.deepEqual(parseVideoInstruction("move to anti trump"), { action: "move", targetSlug: "anti-maga" });
   assert.deepEqual(parseVideoInstruction("move to british"), { action: "move", targetSlug: "british-news" });
   const source = {
     slug: "anti-dem",

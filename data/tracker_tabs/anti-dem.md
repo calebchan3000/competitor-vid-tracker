@@ -65,7 +65,7 @@ updated: 2026-07-30
   - @rachelreport-447 | 241 subscribers | 1
   - @maxtvx-s8c6v | 33K subscribers | 169
   - @lawsonmarketwisdom01 | 397 subscribers | 21
-- **Ingested Vision Registry:** 2026-07-30 | 52 channels | 678 videos
+- **Ingested Vision Registry:** 2026-07-30 | 52 channels | 655 videos
 
 #### Content Performance Engine
 
@@ -706,26 +706,11 @@ updated: 2026-07-30
 | Democrats' Maine Mess + David DesRosiers | @eventual-news | nzBAh9D6WzY | 2026-07-10 | 661 | 2 | 3.87 | Major Outlier |  | youtube | 2026-07-23 |
 | The Democrats secret 'conclave' in Maine \| Domer | @eventual-news | nNJj-jF5jlg | 2026-07-10 | 198 | 1 | 1.16 | Baseline |  | youtube | 2026-07-23 |
 | Eventual Live Stream | @eventual-news | DuIDu_JRbj4 | 2026-07-07 |  | 0 | 0 | Baseline |  | youtube | 2026-07-23 |
-| Trump STUNNED on Live TV by Star Witness During CROSS-EXAMINATION!! | @mnsbulletins | RqYCLsqxOnI | 2026-07-23 | 122138 | 758 | 8.14 | Viral Anomaly | edsel-sheet, ai-avatar, anti-trump | youtube/user-provided | 2026-07-27 |
 | Trump’s 50% Tariff Pushes CANADA’s Aluminum to EUROPE—U.S. Automakers Pay More | @pistonpundit | kdrsAWQY9G8 | 2026-07-22 | 46134 | 247 | 2.32 | Minor Outlier | edsel-sheet, clip-footage, pro-canada | youtube/user-provided | 2026-07-27 |
-| Trump's Gaza Peace Plan Just Fell Apart | @mallenbaker | 81n2MM1g4rY | 2026-07-23 | 60880 | 376 | 0.6 | Baseline | edsel-sheet, real-person, anti-trump | youtube/user-provided | 2026-07-27 |
-| Democrats Begin Trump Impeachment | @jackcocchiarellashow | Nzv6tvtxuo8 | 2026-07-17 | 544468 | 1761 | 1.91 | Baseline | edsel-sheet, real-person, anti-trump | youtube/user-provided | 2026-07-27 |
-| Trump CRASHES OUT at PRESSER as US BASES HIT…EVACUATE NOW!!! | @meidastouch | mQkJZ8OlrbY | 2026-07-23 | 525578 | 3280 | 2.45 | Minor Outlier | edsel-sheet, real-person, proof-screenshot, anti-trump | youtube/user-provided | 2026-07-27 |
-| Supreme Court Sends FINAL Prison Threat—Kash Patel Absolutely LOSES IT! | @charlesmorgan-d2b | GAs7URIp4zM | 2026-07-21 | 59084 | 278 | 19.33 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Patrick Ryan DESTROYS Pete Hegseth Over Dead Soldiers in Explosive Hearing! | @politicalfrontlineusmedia | 56kVn7uKTTU | 2026-07-18 | 567833 | 1990 | 162.98 | Viral Anomaly | edsel-sheet, ai-voice, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| As Mamdani Calls on Trump to Arrest Netanyahu, Genocide Scholar Decries Israel's Ongoing Impunity | @democracynow | w8W_WRB0CVE | 2026-07-23 | 141651 | 854 | 1.98 | Baseline | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Blanche SWEATS as His Confirmation as Trump’s AG Takes a Turn for the WORSE?!?! | @legalafmtn | NZuk2m986nM | 2026-07-24 | 154707 | 1131 | 2.63 | Minor Outlier | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Bond Market Chaos Erupts - Sell Off Triggered as Oil Rallies on Renewed US-Iran War | @lenapetrova | g3apBMHR1UE | 2026-07-15 | 75333 | 209 | 0.81 | Baseline | edsel-sheet, real-person, anti-trump | youtube/user-provided | 2026-07-27 |
-| Barron Dirty Secret Comes Out Then Congress Does This… | @jackcocchiarellashow | XdvkDuSSJJk | 2026-07-23 | 418674 | 2619 | 1.47 | Baseline | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Tate Drags Barron into Arrest | @adammockler | ml5wYWspn08 | 2026-07-24 | 1073959 | 7581 | 3.5 | Major Outlier | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
 | Socialist Seattle Mayor CRIES As A Iconic Seattle brewery Shuts Down After 35 Years! | @newyorkreports1 | jiEMNco_zE8 | 2026-07-23 | 251843 | 1566 | 5.66 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, anti-democrat | youtube/user-provided | 2026-07-27 |
 | Trump Warned Them—Now NYC Landlords SUE Over Mamdani’s Rent Freeze! | @charlesforte2.0 | AQOpgMek5ck | 2026-07-24 | 24597 | 158 | 1.05 | Baseline | edsel-sheet, real-person, clip-footage, anti-democrat | youtube/user-provided | 2026-07-27 |
 | Democrats Fail Again as Chicago Grocery Stores CLOSE UP, HALF Their Revenue Came From SNAP! | @charlesforte2.0 | HYc7Iot7jQk | 2026-07-25 | 19853 | 153 | 0.85 | Baseline | edsel-sheet, real-person, clip-footage, anti-democrat | youtube/user-provided | 2026-07-27 |
 | Mayor Mamdani PANICS As Durst Organization's $1.9 Billion One Bryant Park Refinance Crashes! | @evantalkshow | coWbK3C_H_o | 2026-07-23 | 63010 | 381 | 8.15 | Viral Anomaly | edsel-sheet, ai-avatar | youtube/user-provided | 2026-07-27 |
-| Barron Trump TARGETED in MAJOR INVESTIGATION! | @meidastouch | T1ShzMt2jdg | 2026-07-25 | 1200377 | 10060 | 5.6 | Viral Anomaly | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Supreme Court ORDERS Immediate ARREST as Trump Witnesses COLLAPSED!! | @lawvsunlaws | TLfQ30jxo3E | 2026-07-23 | 48093 | 299 | 17.05 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Trump ERUPTS as Hegseth SCREWS Trump’s PLAN During CROSS-EXAM!! | @mnsbulletins | 0kct2edzEnM | 2026-07-26 | 51460 | 578 | 3.43 | Major Outlier | edsel-sheet, ai-avatar, anti-trump | youtube/user-provided | 2026-07-27 |
-| Scott Bessent COLLAPSES After Terri Sewell EXPOSES Him Live!! | @mnsbulletins | rlElT9sGGRg | 2026-07-25 | 40531 | 358 | 2.7 | Minor Outlier | edsel-sheet, ai-avatar, anti-trump | youtube/user-provided | 2026-07-27 |
 | 🚨 Elizabeth Warren CORNERS Trump Trade Chief Over Tariff Refunds for American Families!!! | @capitolunderoath | qga4-jEKNLc | 2026-07-24 | 8417 | 60 | 24.68 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, pro-democrat | youtube/user-provided | 2026-07-27 |
 | 🚨Pete Hegseth PANICS After Chris Murphy Traps Him On $1 Billion Missing Funds!!! | @insidepolitic | FO57qG2dvR4 | 2026-07-26 | 25043 | 270 | 1 | Baseline | edsel-sheet, ai-avatar, clip-footage, pro-democrat | youtube/user-provided | 2026-07-27 |
 | Feud EXPLODES Between Jon Ossoff & Pete Hegseth Over Iran War Funding! | @thereckoningreport | T6dJpFDcTlE | 2026-07-22 | 50802 | 446 | 28.78 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage | youtube/user-provided | 2026-07-27 |
@@ -733,14 +718,6 @@ updated: 2026-07-30
 | Oregon Governor PANICS As Office Vacancy Rates OFFICIALLY Hits 38% | @newyorkreports1 | gDhQ7Ssa_yI | 2026-07-26 | 50909 | 564 | 1.14 | Baseline | edsel-sheet, ai-avatar, anti-democrat | youtube/user-provided | 2026-07-27 |
 | Mamdani SLAMMED by lawsuit from Landlords in Legal Nightmare | @devorydarkins | q7xMcasXaec | 2026-07-23 | 190542 | 1214 | 1.35 | Baseline | edsel-sheet, real-person, proof-screenshot, anti-democrat | youtube/user-provided | 2026-07-27 |
 | Every Party In Britain Just Refused To Fight Farage \| And Trump Knows Exactly How This Ends | @prof-dominion | -XOcYJDgYzM | 2026-07-24 | 51039 | 380 | 169 | Viral Anomaly | edsel-sheet, ai-avatar, pro-trump | youtube/user-provided | 2026-07-27 |
-| Senators Deliver DIRE WARNING to Trump DOJ... | @scottmacfarlanenews | _eZspSlL9vI | 2026-07-27 | 97647 | 1379 | 3.46 | Major Outlier | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Trump Consequences CRASH Down As Canada Data Proves Major Plunge | @thedamagereport | pn951f-Xus4 | 2026-07-25 | 200029 | 1691 | 7.27 | Viral Anomaly | edsel-sheet, anti-trump | youtube/user-provided | 2026-07-27 |
-| Musk CRUSHED After Odyssey's Box Office SMASH Puts Him Down | @theringoffire | hofqneHb-EU | 2026-07-26 | 67964 | 744 | 4.96 | Major Outlier | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-27 |
-| Trump LOSES IT as TOP WITNESS THROWS Him UNDER THE BUS!! | @lawvsunlaws | KmlptIWWgMY | 2026-07-24 | 29641 | 217 | 10.51 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, anti-trump | youtube/user-provided | 2026-07-30 |
-| 🔥 Mike Waltz FLAILS After Getting CAUGHT LYING About DEPLETED U.S. Weapons Stockpiles | @reflectpolitics | 81Cz42kY1cw | 2026-07-26 | 115926 | 1284 | 14.8 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, anti-trump | youtube/user-provided | 2026-07-30 |
-| MAGA Host ERUPTS On Scott Jennings Over McConnell Call | @theresistancereporttyt | 099OHkivunw | 2026-07-26 | 54629 | 619 | 2.74 | Minor Outlier | edsel-sheet, ai-avatar, clip-footage, anti-trump | youtube/user-provided | 2026-07-30 |
-| Murdoch sends FINAL WARNING to Trump after IRAN LEAK!!! | @meidastouch | 2RnD8JJ1zos | 2026-07-25 | 516682 | 4705 | 2.41 | Minor Outlier | edsel-sheet, real-person, clip-footage, anti-trump | youtube/user-provided | 2026-07-30 |
-| Iowa STUNS Republicans with Crushing Election Night Defeat! | @rachelreport-447 | xKZSI0zu6to | 2026-07-26 | 48833 | 560 | 250.43 | Viral Anomaly | edsel-sheet, ai-avatar, clip-footage, pro-democrat, anti-trump | youtube/user-provided | 2026-07-30 |
 | JUST IN: John Kennedy Asks Ilhan Omar About $250M Stolen Money - What He Reveals DESTROYS Her!!! | @powerunsealed | tVW_cTi6ggI | 2026-07-24 | 83191 | 601 | 1.2 | Baseline | edsel-sheet, ai-avatar, anti-democrat | youtube/user-provided | 2026-07-30 |
 | 6 Democrats Just Voted FOR Trump's SAVE Act — Why The Wall Is Cracking | @maxtvx-s8c6v | ji6iRSfKZz8 | 2026-07-23 | 467497 | 2954 | 21.35 | Viral Anomaly | edsel-sheet, ai-avatar, anti-democrat | youtube/user-provided | 2026-07-30 |
 | Mamdani WAVERS As Renters Spending Half Their Income On Rent Demand Faster Action On Housing Plan! | @evantalkshow | f0I3Ji3NBzw | 2026-07-28 | 2775 | 61 | 0.36 | Baseline | edsel-sheet, ai-avatar, anti-democrat | youtube/user-provided | 2026-07-30 |

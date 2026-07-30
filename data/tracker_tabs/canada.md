@@ -45,7 +45,7 @@ updated: 2026-07-30
   - @legacyunbowed | 82 subscribers | ?
   - @economicbrain-07 | 3.8K subscribers | 1
   - @americacanadaalert | 804 subscribers | 19
-- **Ingested Vision Registry:** 2026-07-30 | 34 channels | 222 videos
+- **Ingested Vision Registry:** 2026-07-30 | 34 channels | 219 videos
 
 #### Content Performance Engine
 
@@ -231,8 +231,6 @@ updated: 2026-07-30
 | BREAKING: Trump slaps 50% tariffs on Canada, Carney fires back | @canadianreportstv | RfTXOnFq-JU | 2026-07-24 | 81370 | 548 | 16.94 | Viral Anomaly | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-27 |
 | Canada JUST Canceled This $6 Billion Bridge Ceremony — Here's Why | @wealthhack-h3p | ELCH0hb5iYI | 2026-07-23 | 74989 | 418 | 18.18 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-27 |
 | Canada Just Sent Trump Into a Full-Blown MELTDOWN | @rebelhq | W0q9sjkNkmU | 2026-07-22 | 97608 | 535 | 2.46 | Minor Outlier | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-27 |
-| Canada's response to new U.S. tariffs | @bnnbloomberg | 3_ShRDXQdMk | 2026-07-24 | 14378 | 103 | 50.81 | Viral Anomaly | edsel-sheet, real-person, clip-footage, pro-canada, anti-trump | youtube/user-provided | 2026-07-27 |
-| 50% CANADA TARIFF: What It Means For Gas & Food Prices! | @wstruthbombs | RUyjUrxh1PA | 2026-07-22 | 211105 | 1112 | 16.95 | Viral Anomaly | edsel-sheet, real-person, anti-trump | youtube/user-provided | 2026-07-27 |
 | Carney Walks Away: The 7 Words That Destroyed a $480 Billion U.S.-Canada Deal \| Alternate History | @dailynewsreport-h1t | O9Us6syQzgw | 2026-07-24 | 16213 | 211 | 0.62 | Baseline | edsel-sheet, ai-avatar | youtube/user-provided | 2026-07-27 |
 | TRUMP's Economic WAR Backfires: Carney Proves Canada Is Sinking The USA | @theplanetd | PFHDbdPNsEw | 2026-07-26 | 89707 | 948 | 1.91 | Baseline | edsel-sheet, real-person, proof-screenshot, pro-canada | youtube/user-provided | 2026-07-27 |
 | Carney’s STUNNING Bridge Snub Puts Trump’s Farmer Crisis on Full Display | @canadapoliticalwire | qzDtVVkjO78 | 2026-07-23 | 30792 | 308 | 85.06 | Viral Anomaly | edsel-sheet | youtube/user-provided | 2026-07-27 |
@@ -269,7 +267,6 @@ updated: 2026-07-30
 | Canada’s Plan to Cripple U.S. At Their Own Game Just Got INSANE! | @49threport | hdHv3D6uH5w | 2026-07-24 | 15939 | 112 | 3.31 | Major Outlier | edsel-sheet, ai-avatar, clip-footage, pro-canada | youtube/user-provided | 2026-07-30 |
 | Carney Calls 3 By-Elections Amid Liberal Humiliation on Trade! | @tnt-wyattclaypool | vCJY_ViMYmg | 2026-07-27 | 27910 | 332 | 1.3 | Baseline | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-30 |
 | Trump Set an August 1 Deadline - Carney's Silence Ended It | @theleveragereport-s9k | kXD2_Y6VPAY | 2026-07-27 | 29409 | 418 | 43.31 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
-| Trump Just Took a Tariff Victory Lap in Michigan — Canada Could Make Him Regret It | @legacyunbowed | uYkt8eSBqK0 | 2026-07-28 | 6627 | 143 | 75.31 | Viral Anomaly | edsel-sheet, ai-avatar, anti-trump | youtube/user-provided | 2026-07-30 |
 | Is This the End of the Petrodollar? Carney's $1.2T Move Raises the Question | @economicbrain-07 | hnDdAF6kIZM | 2026-07-28 | 4013 | 108 | 21.69 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
 | BREAKING: Trump's $865 Billion Energy Gamble Just COLLAPSED — Canada Walked Away | @americacanadaalert | Am6OvlsyzEg | 2026-07-27 | 11908 | 167 | 7.79 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
 | BREAKING: Mark Carney Let Trump Win—Then Built Something America Couldn't Control | @americacanadaalert | 3rKuIc7CPpY | 2026-07-28 | 8598 | 204 | 5.63 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
