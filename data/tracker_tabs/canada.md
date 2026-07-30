@@ -3,17 +3,17 @@ slug: canada
 niche: Canada
 portfolio: Casgains Enterprises
 created: 2026-07-21
-updated: 2026-07-28
+updated: 2026-07-30
 ---
 
 ### TARGET NICHE: Canada
 
-- **Active Tracking Channels:** @JulianTalksCanada
+- **Active Tracking Channels:** @JulianTalksCanada, @Omar Talks Canada
 - **Direct Competitors:**
-  - @rebelhq | 1.5M subscribers | 343
-  - @bnnbloomberg | 178K subscribers | 33
-  - @theplanetd | 139K subscribers | 220
-  - @thedamagereport | 1.4M subscribers | 720
+  - @rebelhq | 1.5M subscribers | 258
+  - @bnnbloomberg | 178K subscribers | 42
+  - @theplanetd | 139K subscribers | 206
+  - @thedamagereport | 1.4M subscribers | 596
   - @jasminlaine | 217K subscribers | 332
 - **Rising Competitors:**
   - @theglobalshiftt | 9.1K subscribers | 10
@@ -30,14 +30,22 @@ updated: 2026-07-28
   - @criticshow-1 | 4.7K subscribers | 10
   - @usacurrentus | 849 subscribers | 31
   - @dollardecodedusa11 | 1.2K subscribers | 7
-  - @canadianreportstv | 1.1K subscribers | 26
-  - @wealthhack-h3p | 2.4K subscribers | 24
-  - @wstruthbombs | 74.2K subscribers | 253
+  - @canadianreportstv | 1.1K subscribers | 18
+  - @wealthhack-h3p | 2.4K subscribers | 23
+  - @wstruthbombs | 74.2K subscribers | 174
   - @dailynewsreport-h1t | 6.7K subscribers | 511
   - @canadapoliticalwire | 2.3K subscribers | 1
-  - @laurahayespoint | 3.2K subscribers | 694
+  - @laurahayespoint | 3.2K subscribers | 438
   - @capitalalert783q2q | 2.3K subscribers | 3
-- **Ingested Vision Registry:** 2026-07-28 | 26 channels | 213 videos
+  - @canadaexposed-e9s | 1.8K subscribers | 7
+  - @brianlilley | 20.2K subscribers | 41
+  - @49threport | 17K subscribers | 18
+  - @tnt-wyattclaypool | 94.9K subscribers | 87
+  - @theleveragereport-s9k | 15.5K subscribers | 8
+  - @legacyunbowed | 82 subscribers | ?
+  - @economicbrain-07 | 3.8K subscribers | 1
+  - @americacanadaalert | 804 subscribers | 19
+- **Ingested Vision Registry:** 2026-07-30 | 34 channels | 222 videos
 
 #### Content Performance Engine
 
@@ -220,16 +228,16 @@ updated: 2026-07-28
 | BREAKING: Hormuz Deal 2026: Trump Claims Victory as Ships Start Moving – Latest News | @usacurrentus | WIQqEQtn4JY | 2026-06-16 | 46 | 0 | 0.03 | Baseline |  | youtube | 2026-07-23 |
 | BREAKING : Trump Turns White House Into UFC Arena on His 80th Birthday – Protests Erupt Nationwide | @usacurrentus | tH5Pc2c1MCU | 2026-06-14 | 70 | 0 | 0.05 | Baseline |  | youtube | 2026-07-23 |
 | BREAKING : Trump's Battery Plan BACKFIRES — Canada and Korea STUN the United States! | @usacurrentus | Of-PQYEmL1I | 2026-06-09 | 3822 | 4 | 2.46 | Minor Outlier |  | youtube | 2026-07-23 |
-| BREAKING: Trump slaps 50% tariffs on Canada, Carney fires back | @canadianreportstv | RfTXOnFq-JU | 2026-07-24 | 81078 | 1000 | 15.07 | Viral Anomaly | edsel-sheet, real-person, clip-footage | youtube/user-provided | 2026-07-27 |
-| Canada JUST Canceled This $6 Billion Bridge Ceremony — Here's Why | @wealthhack-h3p | ELCH0hb5iYI | 2026-07-23 | 73089 | 653 | 19.42 | Viral Anomaly | edsel-sheet, ai-avatar | youtube/user-provided | 2026-07-27 |
-| Canada Just Sent Trump Into a Full-Blown MELTDOWN | @rebelhq | W0q9sjkNkmU | 2026-07-22 | 97016 | 844 | 2.55 | Minor Outlier | edsel-sheet, real-person, clip-footage | youtube/user-provided | 2026-07-27 |
-| Canada's response to new U.S. tariffs | @bnnbloomberg | 3_ShRDXQdMk | 2026-07-24 | 13485 | 187 | 5.96 | Viral Anomaly | edsel-sheet, real-person, clip-footage | youtube/user-provided | 2026-07-27 |
-| 50% CANADA TARIFF: What It Means For Gas & Food Prices! | @wstruthbombs | RUyjUrxh1PA | 2026-07-22 | 209278 | 1709 | 8.53 | Viral Anomaly | edsel-sheet, real-person | youtube/user-provided | 2026-07-27 |
+| BREAKING: Trump slaps 50% tariffs on Canada, Carney fires back | @canadianreportstv | RfTXOnFq-JU | 2026-07-24 | 81370 | 548 | 16.94 | Viral Anomaly | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-27 |
+| Canada JUST Canceled This $6 Billion Bridge Ceremony — Here's Why | @wealthhack-h3p | ELCH0hb5iYI | 2026-07-23 | 74989 | 418 | 18.18 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-27 |
+| Canada Just Sent Trump Into a Full-Blown MELTDOWN | @rebelhq | W0q9sjkNkmU | 2026-07-22 | 97608 | 535 | 2.46 | Minor Outlier | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-27 |
+| Canada's response to new U.S. tariffs | @bnnbloomberg | 3_ShRDXQdMk | 2026-07-24 | 14378 | 103 | 50.81 | Viral Anomaly | edsel-sheet, real-person, clip-footage, pro-canada, anti-trump | youtube/user-provided | 2026-07-27 |
+| 50% CANADA TARIFF: What It Means For Gas & Food Prices! | @wstruthbombs | RUyjUrxh1PA | 2026-07-22 | 211105 | 1112 | 16.95 | Viral Anomaly | edsel-sheet, real-person, anti-trump | youtube/user-provided | 2026-07-27 |
 | Carney Walks Away: The 7 Words That Destroyed a $480 Billion U.S.-Canada Deal \| Alternate History | @dailynewsreport-h1t | O9Us6syQzgw | 2026-07-24 | 16213 | 211 | 0.62 | Baseline | edsel-sheet, ai-avatar | youtube/user-provided | 2026-07-27 |
-| TRUMP's Economic WAR Backfires: Carney Proves Canada Is Sinking The USA | @theplanetd | PFHDbdPNsEw | 2026-07-26 | 81724 | 2999 | 1.77 | Baseline | edsel-sheet, real-person | youtube/user-provided | 2026-07-27 |
+| TRUMP's Economic WAR Backfires: Carney Proves Canada Is Sinking The USA | @theplanetd | PFHDbdPNsEw | 2026-07-26 | 89707 | 948 | 1.91 | Baseline | edsel-sheet, real-person, proof-screenshot, pro-canada | youtube/user-provided | 2026-07-27 |
 | Carney’s STUNNING Bridge Snub Puts Trump’s Farmer Crisis on Full Display | @canadapoliticalwire | qzDtVVkjO78 | 2026-07-23 | 30792 | 308 | 85.06 | Viral Anomaly | edsel-sheet | youtube/user-provided | 2026-07-27 |
-| Carney Got the Call From Trump - His Answer Just Changed the Negotiation | @laurahayespoint | tQQSf5Nv0_s | 2026-07-23 | 126210 | 1313 | 59.23 | Viral Anomaly | edsel-sheet | youtube/user-provided | 2026-07-27 |
-| Trump Consequences CRASH Down As Canada Data Proves Major Plunge | @thedamagereport | pn951f-Xus4 | 2026-07-25 | 185197 | 3636 | 7.08 | Viral Anomaly | edsel-sheet, real-person | youtube/user-provided | 2026-07-27 |
+| Carney Got the Call From Trump - His Answer Just Changed the Negotiation | @laurahayespoint | tQQSf5Nv0_s | 2026-07-23 | 132894 | 813 | 61.67 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-27 |
+| Trump Consequences CRASH Down As Canada Data Proves Major Plunge | @thedamagereport | pn951f-Xus4 | 2026-07-25 | 200029 | 1691 | 7.27 | Viral Anomaly | edsel-sheet, real-person, proof-screenshot, pro-canada | youtube/user-provided | 2026-07-27 |
 | Trump Taxed Canada's Aluminum — Now America Pays $4,000 Per Tonne | @capitalalert783q2q | 62BztCXp4iU | 2026-07-05 | 152240 | 274 | 61.61 | Viral Anomaly | pro-canada | youtube/user-provided | 2026-07-28 |
 | 3 MINS AGO: Canada JUST Cut Off OIL For America Forever? - America Oil Industry In TROUBLE | @theglobalshiftt | JsBwzm1_HlQ | 2026-07-27 | 320 | 21 | 0.16 | Baseline |  | youtube | 2026-07-28 |
 | Canada Just Sent Trump a Message He Never Expected! | @theglobalshiftt | 3-afrSvYr1w | 2026-07-27 | 1285 | 78 | 0.65 | Baseline |  | youtube | 2026-07-28 |
@@ -256,3 +264,12 @@ updated: 2026-07-28
 | "That's Not Real..." \| Trump's Pentagon Just Warned Canada About Carneys Plan | @jasminlaine | aty41yxmiDk | 2026-07-14 | 110478 | 332 | 1.37 | Baseline |  | youtube | 2026-07-28 |
 | "Damn, It's Fun To Watch" \| CBC Panel Celebrates Alleged Conservative Collapse | @jasminlaine | cu8u8eyzimg | 2026-07-13 | 105698 | 297 | 1.31 | Baseline |  | youtube | 2026-07-28 |
 | Trump's Biggest Trade Miscalculation? \| Mark Carney's Strategy Shocks Washington | @dailynewsreport-h1t | uJTULrWx6qI | 2026-07-27 | 29016 | 1298 | 9.49 | Viral Anomaly | pro-canada | youtube/user-provided | 2026-07-28 |
+| Canada EXPLODES As Toronto Condo Market COLLAPSES to 35-Year LOW | @canadaexposed-e9s | N6NsD3l5GI8 | 2026-07-24 | 5898 | 43 | 2.5 | Minor Outlier | edsel-sheet, real-person, clip-footage, anti-canada | youtube/user-provided | 2026-07-30 |
+| Mark Carney enacts Operation Coward over Billy Bishop Airport expansion... | @brianlilley | jqUsZtvJ-7k | 2026-07-26 | 19787 | 221 | 1.78 | Baseline | edsel-sheet, real-person, proof-screenshot, pro-canada | youtube/user-provided | 2026-07-30 |
+| Canada’s Plan to Cripple U.S. At Their Own Game Just Got INSANE! | @49threport | hdHv3D6uH5w | 2026-07-24 | 15939 | 112 | 3.31 | Major Outlier | edsel-sheet, ai-avatar, clip-footage, pro-canada | youtube/user-provided | 2026-07-30 |
+| Carney Calls 3 By-Elections Amid Liberal Humiliation on Trade! | @tnt-wyattclaypool | vCJY_ViMYmg | 2026-07-27 | 27910 | 332 | 1.3 | Baseline | edsel-sheet, real-person, clip-footage, pro-canada | youtube/user-provided | 2026-07-30 |
+| Trump Set an August 1 Deadline - Carney's Silence Ended It | @theleveragereport-s9k | kXD2_Y6VPAY | 2026-07-27 | 29409 | 418 | 43.31 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
+| Trump Just Took a Tariff Victory Lap in Michigan — Canada Could Make Him Regret It | @legacyunbowed | uYkt8eSBqK0 | 2026-07-28 | 6627 | 143 | 75.31 | Viral Anomaly | edsel-sheet, ai-avatar, anti-trump | youtube/user-provided | 2026-07-30 |
+| Is This the End of the Petrodollar? Carney's $1.2T Move Raises the Question | @economicbrain-07 | hnDdAF6kIZM | 2026-07-28 | 4013 | 108 | 21.69 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
+| BREAKING: Trump's $865 Billion Energy Gamble Just COLLAPSED — Canada Walked Away | @americacanadaalert | Am6OvlsyzEg | 2026-07-27 | 11908 | 167 | 7.79 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
+| BREAKING: Mark Carney Let Trump Win—Then Built Something America Couldn't Control | @americacanadaalert | 3rKuIc7CPpY | 2026-07-28 | 8598 | 204 | 5.63 | Viral Anomaly | edsel-sheet, ai-avatar, pro-canada | youtube/user-provided | 2026-07-30 |
