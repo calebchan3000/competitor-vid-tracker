@@ -156,6 +156,34 @@
     });
   }
 
+  // ---- rename niche forms -------------------------------------------------
+  $$(".rename-niche-form").forEach((renameForm) => {
+    const status = $(".rename-status", renameForm);
+    renameForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const niche = String(new FormData(renameForm).get("niche") || "").trim();
+      if (!niche) return;
+      const btn = $("button", renameForm);
+      const oldText = btn?.textContent;
+      if (btn) { btn.disabled = true; btn.textContent = "Renaming…"; }
+      if (status) status.textContent = "";
+      try {
+        const r = await fetch(`/api/tabs/${renameForm.dataset.slug}/rename`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ niche }),
+        });
+        const data = await r.json();
+        if (!data.ok) throw new Error(data.error || "failed");
+        if (status) status.innerHTML = `<span class="ok">✓ renamed</span>`;
+        setTimeout(() => location.reload(), 500);
+      } catch (err) {
+        if (status) status.innerHTML = `<span class="err">✕ ${err.message}</span>`;
+        if (btn) { btn.disabled = false; btn.textContent = oldText; }
+      }
+    });
+  });
+
   // ---- add channel to a niche (tab page) --------------------------------
   const addChanForm = $("#add-channel-form");
   if (addChanForm) {

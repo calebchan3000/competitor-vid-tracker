@@ -308,15 +308,23 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 
 /* ---- tab cards ---- */
 .tab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
-.tab-card { background: var(--panel-2); border: 1px solid var(--line); border-radius: 10px; padding: 16px; transition: 0.15s; display: block; }
-.tab-card:hover { border-color: var(--line-2); transform: translateY(-2px); }
-.tab-card--hot { border-color: rgba(255,91,82,0.4); }
+.tab-card-wrap { background: var(--panel-2); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; transition: 0.15s; }
+.tab-card-wrap:hover { border-color: var(--line-2); transform: translateY(-2px); }
+.tab-card-wrap--hot { border-color: rgba(255,91,82,0.4); }
+.tab-card { padding: 16px; display: block; }
+.tab-card:hover { color: inherit; }
+.tab-card--hot { }
 .tab-card-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 10px; }
 .tab-card-niche { font-weight: 600; font-size: 15px; }
 .tab-card-port { font-size: 10px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
 .tab-card-metrics { display: flex; gap: 14px; font-size: 12px; color: var(--muted); font-family: var(--mono); }
 .tab-card-metrics .hot-count { color: var(--hot); }
 .tab-card-top { margin-top: 10px; font-size: 12px; color: var(--major); border-top: 1px solid var(--line); padding-top: 8px; }
+.rename-niche-form { display: flex; align-items: center; gap: 6px; padding: 10px 12px 12px; border-top: 1px solid var(--line); background: rgba(0,0,0,0.08); }
+.rename-niche-form input { min-width: 0; flex: 1; padding: 6px 8px; font-size: 12px; }
+.rename-niche-form button { padding: 6px 10px; font-size: 12px; white-space: nowrap; }
+.rename-niche-form--header { width: min(520px, 100%); padding: 0; margin: 8px 0 10px; border: 0; background: transparent; }
+.rename-status { font-size: 12px; min-width: 64px; }
 .empty-tabs { color: var(--muted); padding: 20px 0; }
 .hot-count { color: var(--hot); }
 

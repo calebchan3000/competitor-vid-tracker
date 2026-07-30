@@ -77,6 +77,8 @@ test("rendered dashboard shows video label badges", () => {
   }] });
   assert.match(html, /video-label/);
   assert.match(html, /cooking\/food one-off/);
+  assert.match(html, /class="rename-niche-form" data-slug="anti-dem"/);
+  assert.match(html, /<button type="submit" class="btn-secondary">Rename<\/button>/);
 });
 
 test("home dashboard renders channel filter before top outlier table", () => {
@@ -142,6 +144,8 @@ test("niche tab renders channel filter pills before engine results", () => {
     ],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
+  assert.match(html, /class="rename-niche-form rename-niche-form--header" data-slug="anti-dem"/);
+  assert.match(html, /Rename niche/);
   assert.match(html, /id="channel-filter"/);
   assert.match(html, /New opportunity channels/);
   assert.match(html, /Other tracked channels/);

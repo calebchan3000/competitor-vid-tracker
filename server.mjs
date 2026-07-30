@@ -9,7 +9,7 @@ import path from "node:path";
 import { URL } from "node:url";
 
 import { PUBLIC_DIR, UPLOADS_PENDING } from "./lib/paths.mjs";
-import { listTabs, loadTab, saveTab, createTab, addChannels } from "./lib/tabs.mjs";
+import { listTabs, loadTab, saveTab, createTab, renameNiche, addChannels } from "./lib/tabs.mjs";
 import { renderHome, renderTab, layout } from "./lib/render.mjs";
 import { upsertChannel } from "./lib/channels.mjs";
 import { listSnapshots, snapshotImagePath } from "./lib/snapshots.mjs";
@@ -151,6 +151,13 @@ const server = http.createServer(async (req, res) => {
       const body = JSON.parse(await readBody(req));
       const tab = createTab({ niche: body.niche, portfolio: body.portfolio || "", activeChannels: body.activeChannels || [] });
       return json(res, { ok: true, slug: tab.slug });
+    }
+    const renameMatch = p.match(/^\/api\/tabs\/([^/]+)\/rename$/);
+    if (renameMatch && req.method === "POST") {
+      const slug = decodeURIComponent(renameMatch[1]);
+      const body = JSON.parse(await readBody(req));
+      const tab = renameNiche(slug, body.niche);
+      return json(res, { ok: true, slug: tab.slug, niche: tab.niche });
     }
     const chanMatch = p.match(/^\/api\/tabs\/([^/]+)\/channels$/);
     if (chanMatch && req.method === "POST") {
