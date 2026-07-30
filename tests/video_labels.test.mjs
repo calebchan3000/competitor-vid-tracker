@@ -284,7 +284,7 @@ test("niche tab separates audience competitors from AI avatar and up-and-coming 
     ],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
-  assert.match(html, /Audience tab competitors/);
+  assert.match(html, /Integrated Audience results/);
   assert.match(html, /AI avatar \/ up-and-coming style videos/);
   assert.match(html, /data-source-section="audience-tab"/);
   assert.match(html, /data-source-section="style-picks"/);
@@ -373,7 +373,7 @@ test("dismissed videos are removed from actionable niche sections", () => {
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [], dismissed: [{ videoId: "d1234567890" }] });
   assert.doesNotMatch(html, /Dismiss me/);
-  assert.match(html, /No videos in this subsection/);
+  assert.match(html, /No videos in the last 7 days yet/);
 });
 
 test("niche tab renders subtle inline X without a dismiss column or horizontal table scroll wrapper", () => {
@@ -485,7 +485,7 @@ test("audience section prioritizes actual YouTube Studio audience snapshot video
     ] },
   }];
   const html = renderTab(tab, { horizon: 30, snapshots });
-  assert.match(html, /Audience tab competitors — YouTube Studio videos/);
+  assert.match(html, /Integrated Audience results — YouTube Studio videos/);
   assert.match(html, /Studio audience exact A/);
   assert.match(html, /Studio audience exact B/);
   assert.doesNotMatch(html, /Unresolved audience row with no thumbnail/);
@@ -494,3 +494,33 @@ test("audience section prioritizes actual YouTube Studio audience snapshot video
   assert.doesNotMatch(html, /Fox Business two/);
   assert.match(html, /Real audience outlier/);
 });
+
+test("integrated audience results dedupe overlapping videos and show source batches", () => {
+  const tab = {
+    slug: "new-york",
+    niche: "New York",
+    portfolio: "Casgains",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-30", channels: 0, videos: 0 },
+    videos: [],
+  };
+  const snapshots = [{
+    batchId: "julian-ny",
+    slug: "new-york",
+    sourceChannelCanonical: "Julian News Report",
+    actualNiche: "New York",
+    files: [],
+    audience: { videos: [
+      { title: "Mamdani rent freeze faces landlord backlash", channel: "NY Politics", videoId: "nyoverlap01", views: 100000, age: "3 days ago" },
+      { title: "Generic New York city hall update", channel: "NY Politics", videoId: "nyonly00001", views: 60000, age: "5 days ago" },
+      { title: "Mamdani rent freeze faces landlord backlash", channel: "NY Politics", videoId: "nyoverlap01", views: 100000, age: "3 days ago" },
+    ] },
+  }];
+  const html = renderTab(tab, { horizon: 30, snapshots });
+  assert.equal((html.match(/Mamdani rent freeze faces landlord backlash/g) || []).length, 2);
+  assert.match(html, /Seen in Audience screenshots: Julian News Report/);
+  assert.match(html, /deduped and show every source screenshot/);
+});
+
