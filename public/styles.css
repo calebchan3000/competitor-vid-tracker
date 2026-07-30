@@ -326,6 +326,13 @@ button:disabled { opacity: 0.4; cursor: not-allowed; }
 .rename-niche-form--header { width: min(520px, 100%); padding: 0; margin: 8px 0 10px; border: 0; background: transparent; }
 .rename-status { font-size: 12px; min-width: 64px; }
 .empty-tabs { color: var(--muted); padding: 20px 0; }
+.edsel-results-summary { margin-top: -4px; margin-bottom: 14px; }
+.edsel-results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+.edsel-result-card { display: grid; gap: 6px; padding: 12px; border: 1px solid var(--line); background: var(--panel-2); border-radius: 10px; }
+.edsel-result-card:hover { border-color: var(--accent-dim); transform: translateY(-1px); }
+.edsel-result-source .chan-link { font-weight: 700; }
+.edsel-result-niche { color: var(--accent); font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .05em; }
+.edsel-result-metrics { color: var(--muted); font-size: 12px; }
 .hot-count { color: var(--hot); }
 
 /* ---- tab page header ---- */
