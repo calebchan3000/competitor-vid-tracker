@@ -268,7 +268,7 @@ test("rendered channel filter includes a separate Edsel-only source button", () 
   assert.match(html, /data-labels="edsel-sheet"/);
 });
 
-test("Edsel Picks tab shows the full list grouped by source niche and section", () => {
+test("Edsel Picks tab shows the full list grouped by operational niche and section", () => {
   const tab = {
     slug: "edsel-picks",
     niche: "Edsel Picks Only",
@@ -276,23 +276,32 @@ test("Edsel Picks tab shows the full list grouped by source niche and section", 
     activeChannels: [],
     directCompetitors: [],
     risingCompetitors: [],
-    registry: { lastDate: "2026-08-03", channels: 3, videos: 3 },
+    registry: { lastDate: "2026-08-03", channels: 5, videos: 5 },
     videos: [
-      { title: "Old Anti Dem AI pick", handle: "@oldai", videoId: "oldai123456", publishDate: "2026-07-01", views: 9000, outlier: 0.4, tier: "Baseline", labels: ["edsel-sheet", "ai-avatar", "source-anti-dem"], source: "youtube/user-provided" },
-      { title: "Canada real person pick", handle: "@canreal", videoId: "canreal1234", publishDate: "2026-07-02", views: 12000, outlier: 1.2, tier: "Baseline", labels: ["edsel-sheet", "real-person", "source-canada"], source: "youtube/user-provided" },
-      { title: "Anti MAGA clip pick", handle: "@magaclip", videoId: "magaclip12", publishDate: "2026-07-03", views: 8000, outlier: 0.8, tier: "Baseline", labels: ["edsel-sheet", "clip-footage", "source-anti-maga"], source: "youtube/user-provided" },
+      { title: "Old Anti Dem AI pick", handle: "@oldai", videoId: "oldai123456", publishDate: "2026-07-01", views: 9000, outlier: 0.4, tier: "Baseline", labels: ["edsel-sheet", "ai-avatar", "source-anti-dem", "anti-democrat"], source: "youtube/user-provided" },
+      { title: "Pro Canada real person pick", handle: "@canreal", videoId: "canreal1234", publishDate: "2026-07-02", views: 12000, outlier: 1.2, tier: "Baseline", labels: ["edsel-sheet", "real-person", "source-canada", "pro-canada"], source: "youtube/user-provided" },
+      { title: "Anti Canada real person pick", handle: "@antican", videoId: "antican1234", publishDate: "2026-07-02", views: 12000, outlier: 1.1, tier: "Baseline", labels: ["edsel-sheet", "real-person", "source-canada", "anti-canada"], source: "youtube/user-provided" },
+      { title: "Anti MAGA clip pick", handle: "@magaclip", videoId: "magaclip12", publishDate: "2026-07-03", views: 8000, outlier: 0.8, tier: "Baseline", labels: ["edsel-sheet", "clip-footage", "source-anti-dem", "anti-maga"], source: "youtube/user-provided" },
+      { title: "Mixed Canada fallback", handle: "@canmix", videoId: "canmix12345", publishDate: "2026-07-04", views: 7000, outlier: 0.7, tier: "Baseline", labels: ["edsel-sheet", "source-canada"], source: "youtube/user-provided" },
     ],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
   assert.match(html, /Full Edsel picks library/);
-  assert.match(html, /All <span>3<\/span>/);
-  assert.match(html, /Anti Dem — AI avatar \/ AI voice/);
-  assert.match(html, /Canada — Real person/);
+  assert.match(html, /All <span>5<\/span>/);
+  assert.match(html, /Pro Canada — Real person/);
   assert.match(html, /Anti MAGA — Clip footage \/ proof screenshots/);
-  assert.match(html, /Old Anti Dem AI pick/);
-  assert.match(html, /Canada real person pick/);
+  assert.match(html, /Anti-Dem — AI avatar \/ AI voice/);
+  assert.match(html, /Anti-Canada — Real person/);
+  assert.match(html, /Canada \/ mixed — Other Edsel picks/);
+  assert.match(html, /data-label-filter="pro-canada"/);
+  assert.match(html, /data-label-filter="anti-maga"/);
+  assert.match(html, /data-label-filter="anti-dem"/);
+  assert.match(html, /data-label-filter="anti-canada"/);
+  assert.match(html, /data-labels="edsel-sheet ai-avatar source-anti-dem anti-democrat anti-dem"/);
+  assert.match(html, /Pro Canada real person pick/);
+  assert.match(html, /Anti Canada real person pick/);
   assert.match(html, /Anti MAGA clip pick/);
-  assert.equal((html.match(/class="vrow/g) || []).length, 3);
+  assert.equal((html.match(/class="vrow/g) || []).length, 5);
 });
 
 test("niche tab separates audience competitors from AI avatar and up-and-coming picks", () => {
