@@ -514,8 +514,8 @@ test("audience section prioritizes actual YouTube Studio audience snapshot video
   const snapshots = [{
     files: [],
     audience: { videos: [
-      { title: "Studio audience exact A", handle: "@studioa", videoId: "studio00001", views: 12000, age: "5 days ago" },
-      { title: "Studio audience exact B", handle: "@studiob", videoId: "studio00002", views: 9000, age: "1 week ago" },
+      { title: "Studio audience exact A", handle: "@studioa", videoId: "studio00001", views: 520000, age: "5 days ago" },
+      { title: "Studio audience below anti-dem floor", handle: "@studiob", videoId: "studio00002", views: 499999, age: "1 week ago" },
       { title: "Unresolved audience row with no thumbnail", handle: "@noid", views: 100000, age: "1 week ago" },
       { title: "Own studio row should hide", channel: "Julian News Report", videoId: "ownstudio01", views: 100000, age: "1 week ago" },
     ] },
@@ -523,12 +523,42 @@ test("audience section prioritizes actual YouTube Studio audience snapshot video
   const html = renderTab(tab, { horizon: 30, snapshots });
   assert.match(html, /Integrated Audience results — YouTube Studio videos/);
   assert.match(html, /Studio audience exact A/);
-  assert.match(html, /Studio audience exact B/);
+  assert.doesNotMatch(html, /Studio audience below anti-dem floor/);
   assert.doesNotMatch(html, /Unresolved audience row with no thumbnail/);
   assert.doesNotMatch(html, /Own studio row should hide/);
   assert.match(html, /Fox Business one/);
   assert.doesNotMatch(html, /Fox Business two/);
   assert.match(html, /Real audience outlier/);
+});
+
+
+
+test("Canada audience screenshots use the 100K spokesperson-channel floor", () => {
+  const tab = {
+    slug: "canada",
+    niche: "Canada",
+    portfolio: "Casgains",
+    activeChannels: [],
+    directCompetitors: [],
+    risingCompetitors: [],
+    registry: { lastDate: "2026-07-30", channels: 0, videos: 0 },
+    videos: [],
+  };
+  const snapshots = [{
+    batchId: "canada-audience",
+    slug: "canada",
+    sourceChannelCanonical: "Julian Talks Canada",
+    actualNiche: "Canada",
+    files: [],
+    audience: { videos: [
+      { title: "Canada keeper over floor", handle: "@canadakeeper", videoId: "cankeep0001", views: 100000, age: "4 days ago" },
+      { title: "Canada below floor", handle: "@canadalow", videoId: "canlow00001", views: 99999, age: "4 days ago" },
+    ] },
+  }];
+  const html = renderTab(tab, { horizon: 30, snapshots });
+  assert.match(html, /Canada keeper over floor/);
+  assert.doesNotMatch(html, /Canada below floor/);
+  assert.match(html, /≥100,000 views for Canada/);
 });
 
 test("integrated audience results dedupe overlapping videos and show source batches", () => {
