@@ -304,7 +304,7 @@ test("Edsel Picks tab shows the full list grouped by operational niche and secti
   assert.equal((html.match(/class="vrow/g) || []).length, 5);
 });
 
-test("NexLev niche finder tab groups the full library by section and exposes section filters", () => {
+test("NexLev niche finder tab prioritizes last-30-day outliers and collapses videos older than 60 days", () => {
   const tab = {
     slug: "nexlev-niche-finder",
     niche: "NexLev Niche Finder",
@@ -312,27 +312,31 @@ test("NexLev niche finder tab groups the full library by section and exposes sec
     activeChannels: [],
     directCompetitors: [],
     risingCompetitors: [],
-    registry: { lastDate: "2026-08-06", channels: 3, videos: 3 },
+    registry: { lastDate: "2026-08-06", channels: 4, videos: 4 },
     videos: [
-      { title: "Canada trade war explained", handle: "@geopol", videoId: "geo12345678", publishDate: "2026-05-20", views: 88000, outlier: 4.5, tier: "Major Outlier", labels: ["finder-section-politics-geopolitics"], source: "youtube/user-provided" },
+      { title: "Fresh Canada trade war explained", handle: "@geopol", videoId: "geo12345678", publishDate: "2026-08-01", views: 88000, outlier: 4.5, tier: "Major Outlier", labels: ["finder-section-politics-geopolitics"], source: "youtube/user-provided" },
       { title: "Best cash-back cards for 2026", handle: "@money", videoId: "money123456", publishDate: "2026-04-18", views: 54000, outlier: 3.4, tier: "Major Outlier", labels: ["finder-section-money-business"], source: "youtube/user-provided" },
       { title: "Bodycam suspect caught on CCTV", handle: "@crime", videoId: "crime123456", publishDate: "2026-03-14", views: 76000, outlier: 5.1, tier: "Viral Anomaly", labels: ["finder-section-crime-legal-bodycam"], source: "youtube/user-provided" },
+      { title: "Recent bodycam suspect update", handle: "@crime2", videoId: "crime223456", publishDate: "2026-07-20", views: 82000, outlier: 4.9, tier: "Major Outlier", labels: ["finder-section-crime-legal-bodycam"], source: "youtube/user-provided" },
     ],
   };
   const html = renderTab(tab, { horizon: 7, snapshots: [] });
   assert.match(html, /Full NexLev niche-finder library/);
-  assert.match(html, /All <span>3<\/span>/);
+  assert.match(html, /All <span>2<\/span>/);
   assert.match(html, /Politics \/ Geopolitics/);
   assert.match(html, /Money \/ Business/);
   assert.match(html, /Crime \/ Legal \/ Bodycam/);
   assert.match(html, /data-source-section="politics-geopolitics"/);
   assert.match(html, /data-label-filter="finder-section-politics-geopolitics"/);
-  assert.match(html, /data-label-filter="finder-section-money-business"/);
   assert.match(html, /data-label-filter="finder-section-crime-legal-bodycam"/);
-  assert.match(html, /Canada trade war explained/);
-  assert.match(html, /Best cash-back cards for 2026/);
+  assert.match(html, /data-source-section="money-business"/);
+  assert.match(html, /Fresh Canada trade war explained/);
+  assert.match(html, /Recent bodycam suspect update/);
+  assert.match(html, /1 viral outlier from the last 30 days shown first/);
+  assert.match(html, /Load more <span class="muted">\(1 older than 60 days\)<\/span>/);
   assert.match(html, /Bodycam suspect caught on CCTV/);
-  assert.equal((html.match(/class="vrow/g) || []).length, 3);
+  assert.match(html, /Best cash-back cards for 2026/);
+  assert.equal((html.match(/class="vrow/g) || []).length, 4);
 });
 
 test("niche tab separates audience competitors from AI avatar and up-and-coming picks", () => {

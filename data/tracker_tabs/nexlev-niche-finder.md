@@ -10,250 +10,310 @@ updated: 2026-08-06
 
 - **Active Tracking Channels:** @—
 - **Direct Competitors:**
-  - @Eleven 11 | 115K | ?
-  - @Business Explains The World | 181K | ?
-  - @Freshlol | 507K | ?
-  - @MDMZ - AI | 107K | ?
-  - @Stars Evolution | 128K | ?
+  - @Layla Sun | 324K | ?
+  - @Ashley Embers | 245K | ?
+  - @Lucas T. Jahn | 229K | ?
+  - @The Little Platoon | 221K | ?
+  - @AlexBlox | 204K | ?
+  - @Colonello | 196K | ?
+  - @MattieFlips | 192K | ?
+  - @Zac V2 | 158K | ?
+  - @jawbree | 106K | ?
 - **Rising Competitors:**
-  - @MS&E 435: Economics of AI | 16.4K | ?
-  - @Mainstreet Body Cam | 9.8K | ?
-  - @F1 Explained | 1.3K | ?
-  - @Guardian Stories | 4.7K | ?
-  - @Solo Story Systems | 3.9K | ?
-  - @Joey's Corner | 15.9K | ?
-  - @Diagnosis Glitch | 50.4K | ?
-  - @Regency Love Stories | 3K | ?
-  - @MONEYNMOR | 1.6K | ?
-  - @Psychology You Never Knew | 4.8K | ?
-  - @Industrial Explained | 3.1K | ?
-  - @Hluma | 17K | ?
-  - @D87 | 5.4K | ?
-  - @Trooper | 10.6K | ?
-  - @Original Sin | 21.2K | ?
-  - @NATURE REVEALED WORLD | 8K | ?
-  - @Fallen Hi-Fi | 1.6K | ?
-  - @PettoTitan | 1K | ?
-  - @TroubleDEV - Hytale Dev Tutorials | 8.2K | ?
-  - @Unknown SataFrika | 1.6K | ?
-  - @Dark Owl | 9.2K | ?
-  - @Fantasy Era | 1.1K | ?
-  - @Arrested Karen | 4.9K | ?
-  - @Stars Then & Now | 10.6K | ?
-  - @Night Ruler | 21.6K | ?
-  - @MetaMonster Studio | 3.6K | ?
-  - @Flight Origin | 3.3K | ?
-  - @Old Farmer’s Memories | 4K | ?
-  - @Revenge Orchid | 3.2K | ?
-  - @Real Crime Cam | 5K | ?
-  - @Omega Point | 13.2K | ?
-  - @Jeremy White | 3.1K | ?
-  - @The Opening | 36K | ?
-  - @Exposed & Punished | 7.5K | ?
-  - @Revenge Labyrinth | 1.8K | ?
-  - @Mirror Tier | POE 2 | 10.2K | ?
-  - @History Buffs Hub | 9.1K | ?
-  - @Zolex | 11.5K | ?
-  - @Fascinating-Vamps | 9.5K | ?
-  - @Empire Falls | 4K | ?
-  - @Orc Promise | 6K | ?
-  - @Revmatch | 3K | ?
-  - @Contrails | 1.2K | ?
-  - @Home Garden Concepts | 7.3K | ?
-  - @Timera Studio | 36.7K | ?
-  - @The Healing Flame | 19.6K | ?
-  - @Ink Explainer | 7.8K | ?
-  - @Aesthetix | 7.2K | ?
-  - @VarmiMC | 1.4K | ?
-  - @Romeo Robinson | 11.1K | ?
-  - @Deserted UK | 3.6K | ?
-  - @Archeruser | 2.4K | ?
-  - @Since 1945 | 27.9K | ?
-  - @Bigfoot Sightings Canada | 1.3K | ?
-  - @Ben Hodges Updates | 14.4K | ?
-  - @Rory Talks | 16.4K | ?
-  - @2x45 | 1.4K | ?
-  - @Reading Crow | 40.6K | ?
-  - @For the Love of Theme Parks | 57.1K | ?
-  - @CueBall Genius | 35.6K | ?
-  - @The Fame Vault | 1.6K | ?
-  - @Guard Action | 5.8K | ?
-  - @Jiji Recaps | 2.5K | ?
-  - @Matt Reconstructs History | 93.6K | ?
-  - @Backyard Bankroll | 15K | ?
-  - @Witness Reacts | 1.1K | ?
-  - @PositiveHA | 5.2K | ?
-  - @Ignatius | 8.2K | ?
-  - @Next Level POV | 1.8K | ?
-  - @HOA Karen Nightmares | 2.6K | ?
-  - @Jrannk | 5.5K | ?
-  - @OSHO AWARENESS | 3.2K | ?
-  - @Mr.John's Briefing | 3.6K | ?
-  - @Findicate | 3.8K | ?
-  - @Storage Unit Secrets | 7.9K | ?
-  - @Highway Dragon Gaming | 3.7K | ?
-  - @MrRichMexican | 2.7K | ?
-  - @Axl Gang | 1.9K | ?
-  - @Just Made It Simple | 5.1K | ?
-  - @azure | 14.8K | ?
-  - @HOA Board Members | 6.8K | ?
-  - @Rene Enriquez Uncensored | 48.7K | ?
-  - @Glorp | 12.2K | ?
-  - @Captain Obscure | 7.3K | ?
-  - @FixIn60 | 2.6K | ?
-  - @Make Wonderful Things | 14.4K | ?
-  - @Mega Football | 5.4K | ?
-  - @Screen Media vs The World | 1K | ?
-  - @Bang Bung | 4.9K | ?
-  - @V FRONTLINE | 7.2K | ?
-  - @BibleResolve | 23.2K | ?
-  - @Aeralith Wild | 3.2K | ?
-  - @The Aussie Outback | 2.9K | ?
-  - @Dr Bob's Brutal History | 7.4K | ?
-  - @Forensic Investigators | 27.6K | ?
-  - @JoshBlack59 | 26.8K | ?
-  - @Mr Loony Lemon | 4.4K | ?
-  - @Khoruy | 1.7K | ?
-  - @EliteRevelation | 17K | ?
-  - @JBG Works | 1.3K | ?
-  - @FurFight TV | 3.2K | ?
-  - @Boating Nomad | 4.1K | ?
-  - @Vyne | 2K | ?
-  - @Dustbound | 49.7K | ?
-  - @shmark | 1.6K | ?
-  - @Classic Hollywood TV | 8.6K | ?
-  - @Acidrop | 4.4K | ?
-  - @Prumhy | 56K | ?
-  - @The Void | 43.8K | ?
-  - @SciFi Area | 5.5K | ?
-  - @Socket-X | 5K | ?
-  - @Cross-Border Crimes | 5.3K | ?
-  - @Sophia Grant Reports | 11.5K | ?
-  - @Retro Cast Updates | 10.3K | ?
-  - @Zei | 15.5K | ?
-- **Ingested Vision Registry:** 2026-08-06 | 120 channels | 120 videos
+  - @Drawn to Death | 997 | ?
+  - @LEXER | 77.8K | ?
+  - @DRACARYA | 72.8K | ?
+  - @Let's Rewind | 65.9K | ?
+  - @tims | 62.1K | ?
+  - @History Uncovered | 59.7K | ?
+  - @ZebsKingdom | 42.6K | ?
+  - @MARVEL Tokon: Fighting Souls | 42.5K | ?
+  - @Stefan Burns Clips | 42.5K | ?
+  - @Earthmovers Media | 35.8K | ?
+  - @ServerSideJysq | 33.6K | ?
+  - @GAM | 33.1K | ?
+  - @Papiens | 31.3K | ?
+  - @Cycle Of Operation | 30.2K | ?
+  - @Blendify | 28.9K | ?
+  - @Her Family Stories | 27.1K | ?
+  - @Lost Things Found | 26.3K | ?
+  - @Rotusdil | 25.3K | ?
+  - @Bo Wilder | 22.7K | ?
+  - @Horizon Boulevard | 21K | ?
+  - @Troybert | 20.3K | ?
+  - @Animated Math | 20.3K | ?
+  - @Animated Physics | 20K | ?
+  - @Ballpark Figures | 19.7K | ?
+  - @Wild Bird Survival | 19.3K | ?
+  - @Paint Maniac | 18.7K | ?
+  - @The Affluent Mind | 17.6K | ?
+  - @Maker World | 16.9K | ?
+  - @Rolling Luxe USA | 16.1K | ?
+  - @Wild Tings | 14.9K | ?
+  - @San English | 13.3K | ?
+  - @A Channel of Ice and Fire | 13K | ?
+  - @Mini Mystie | 12.4K | ?
+  - @Fossil Fruw – After Dark | 12.1K | ?
+  - @Jenny Uncovers China | 11.4K | ?
+  - @Yuniforum | 11.3K | ?
+  - @Enter Pro by Converge AI | 11K | ?
+  - @Marcus Reed | 10.1K | ?
+  - @Hush Little Lamb | 10.1K | ?
+  - @The Fact Vult | 9.7K | ?
+  - @MARIS ORIGINAL FILMS | 9.5K | ?
+  - @Nightmare Hollows | 9.2K | ?
+  - @Sci-Fry | 9.1K | ?
+  - @Belmorra | 8.8K | ?
+  - @Workshop Decoded | 8.8K | ?
+  - @A Generation Cooked | 8K | ?
+  - @Hiolp | 7.7K | ?
+  - @Cara Films | 7.5K | ?
+  - @ThatsZango | 7.5K | ?
+  - @Bill Wavey | 7.1K | ?
+  - @History Uncovered | 7K | ?
+  - @heart tales | 6.5K | ?
+  - @Frasier Central | 6K | ?
+  - @Marcus Ward — History | 6K | ?
+  - @Forgotten Wards | 6K | ?
+  - @Kemet Files | 5.9K | ?
+  - @Ship-Yard | 5.8K | ?
+  - @Untold Chapters | 5.7K | ?
+  - @Morbid Report | 5.7K | ?
+  - @Moth Preacher | 5.6K | ?
+  - @RELL Reporter | 5.6K | ?
+  - @Forbidden Islands | 5.5K | ?
+  - @Gotex Ball | 5.2K | ?
+  - @Movie Metrica | 5.1K | ?
+  - @Kenyon Spiritual Teachings | 5.1K | ?
+  - @RichInLore | 5.1K | ?
+  - @RRiccoo | 5K | ?
+  - @Dee AI Films | 4.7K | ?
+  - @Cold Case Redemption | 4.7K | ?
+  - @Jackie & Shadow Nest Moments | 4.6K | ?
+  - @Basketball Legends | 4.5K | ?
+  - @The Expensive Part | 4.5K | ?
+  - @Character MBA | 4.4K | ?
+  - @Impossible Places Global | 4.4K | ?
+  - @Oil Memory | 4.4K | ?
+  - @Ewigen Manga | 4.3K | ?
+  - @TonyHasHistory | 4.3K | ?
+  - @Beyond Canon | 4.3K | ?
+  - @Plunderthabooty POE2 | 4.2K | ?
+  - @Perfect Home Decor | 4.1K | ?
+  - @TomoGamers | 4K | ?
+  - @The Capitol Vault | 4K | ?
+  - @Tasman Defence Review | 3.9K | ?
+  - @China Uncovered | 3.8K | ?
+  - @Lowkey NPC explains | 3.7K | ?
+  - @Case Breakdown TV | 3.7K | ?
+  - @Fiction Max | 3.6K | ?
+  - @Player GTAG | 3.5K | ?
+  - @db | 3.5K | ?
+  - @Graven History | 3.4K | ?
+  - @rook | 3.4K | ?
+  - @Frame Explainer | 3.4K | ?
+  - @Red Card Films | 3.2K | ?
+  - @Europe Wakes Up | 3.1K | ?
+  - @Oldways Britain | 3K | ?
+  - @Millennium Dawn Official | 3K | ?
+  - @Neo Origin | 3K | ?
+  - @The Windsor Lens | 3K | ?
+  - @Boxing Vibe | 2.9K | ?
+  - @Carolina Living | 2.7K | ?
+  - @HONOR VOICES | 2.6K | ?
+  - @Badminton Pulse | 2.6K | ?
+  - @Millennial Rewind | 2.5K | ?
+  - @Trade Nexus | 2.5K | ?
+  - @ScreenSecrets | 2.5K | ?
+  - @Psychic Fire | 2.3K | ?
+  - @Technium Restoration | 2.3K | ?
+  - @Ultimate Aircraft | 2.3K | ?
+  - @The Hidden Provinces | 2.2K | ?
+  - @Fame Unfolded | 2.2K | ?
+  - @Ashes of Empires | 2.2K | ?
+  - @Survival They Mocked | 2K | ?
+  - @Gloww | 2K | ?
+  - @Elite Force | 1.9K | ?
+  - @Never Sell Club | 1.8K | ?
+  - @Giggy | 1.8K | ?
+  - @Taoufik | 1.8K | ?
+  - @Vornic | 1.7K | ?
+  - @Epic_1237 | 1.7K | ?
+  - @twobirdbrains | 1.7K | ?
+  - @Louis Status | 1.7K | ?
+  - @Records Insider | 1.7K | ?
+  - @Aby Bricks | 1.7K | ?
+  - @American Soldier Stories | 1.6K | ?
+  - @Blue Trees | 1.6K | ?
+  - @Carma TV | 1.6K | ?
+  - @Explorer Guy | 1.6K | ?
+  - @ZennyKnight | 1.5K | ?
+  - @MarketMindset | 1.5K | ?
+  - @World Football Icons | 1.5K | ?
+  - @Vaulted Oak History | 1.4K | ?
+  - @Ceph Explain | 1.4K | ?
+  - @Nightmare Narrator | 1.3K | ?
+  - @Beyond Red | 1.3K | ?
+  - @TypicalBread | 1.3K | ?
+  - @LauJak | 1.3K | ?
+  - @The Chokepoint Review | 1.2K | ?
+  - @Anidomain | 1.2K | ?
+  - @TJ Hill | 1.2K | ?
+  - @Mr. Listener | 1.1K | ?
+  - @Eenie Mind | 1K | ?
+- **Ingested Vision Registry:** 2026-08-06 | 149 channels | 150 videos
 
 #### Content Performance Engine
 
 | Video Title | Handle | Video ID | Publish Date | Views | VPH | Outlier | Tier | Labels | Source | First Seen |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Class #1 \| MS&E435: Economics of the AI Supercycle Stanford University Spring '26 Apoorv Agrawal | @MS&E 435: Economics of AI | -ubIUNA-zRA | 2026-05-02 | 140000 |  | 4.95 | Major Outlier | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| Police Arrest Extremely Drunk Woman Passed Out With Week-Old Baby In The Car. | @Mainstreet Body Cam | 92XQMfSgces | 2026-02-02 | 1200000 |  | 5.17 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| Every F1 Driver Who Turned PSYCHO After Retiring Explained In 11 Minutes | @F1 Explained | KSVOXROasIQ | 2025-08-02 | 51000 |  | 2.29 | Minor Outlier | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Little Boy Asked Bikers for Directions to the Police Station — The Group Rode Up to His Street | @Guardian Stories | rQTxNdu3lfg | 2026-04-02 | 548000 |  | 2.71 | Minor Outlier | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
-| I Was Mistakenly Summoned With The Worst F-Rank Skill, So I Turned Trash Loot Into an SSS Empire | @Solo Story Systems | O7kG3AFjAz0 | 2026-05-19 | 161000 |  | 4.01 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| The Truth about Pete and Bas - Are They REAL?🤔 | @Joey's Corner | k-U0BJ4S8Pk | 2026-04-02 | 138000 |  | 3.36 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| He Ate Street Food In India. 44 Days Later, His Brain Had Worms. | @Diagnosis Glitch | zemO9Mc0wN0 | 2026-03-02 | 1700000 |  | 2.39 | Minor Outlier | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
-| "Know Your Place" the Duke Told Her — She Curtsied, Left, and Bought His Neighbor's Estate | @Regency Love Stories | DV7OnBPXMv4 | 2026-05-02 | 178000 |  | 4.13 | Major Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| AMEX PLATINUM VS. CHASE SAPPHIRE RESERVE (2026 EDITION) | @MONEYNMOR | Rv564WF7xSI | 2026-05-02 | 451000 |  | 2.41 | Minor Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| Psychology of People Who Win Quietly \| This Will Change How You See Success | @Psychology You Never Knew | JqopCh4PyGo | 2026-05-02 | 168000 |  | 7.05 | Viral Anomaly | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
-| Satisfying Machines Operating at an INSANE Level ▶ 2 | @Industrial Explained | dfmibetHyek | 2026-05-02 | 742000 |  | 14.86 | Viral Anomaly | finder-section-cars-engineering | nexlev/finder | 2026-08-06 |
-| The Most Brutal Revenge Murder In UK’s Underworld. | @Hluma | QdWW7Pe_Jjk | 2025-10-01 | 359000 |  | 2.81 | Minor Outlier | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| How to Achieve God Tier Movement - Rocket League | @D87 | nTTtYClWmjM | 2025-12-01 | 360000 |  | 2.41 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| Banned... | @Trooper | nExjwkIGEGc | 2026-01-01 | 228000 |  | 2.77 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| No Place to Hide \| How CCTV Solved a Major London Crime | @Original Sin | pp_fQte4vUs | 2026-01-01 | 516000 |  | 10.92 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| 3 The Terrifying Battle Between Reptile Beasts \| ANIMAL DOCUMENTARY | @NATURE REVEALED WORLD | QbdGpswf5GE | 2025-09-01 | 309000 |  | 2.34 | Minor Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| Bose vs. The Audiophiles: How America's Most Hated Audio Empire Went Silent | @Fallen Hi-Fi | oc8iwBKOecA | 2026-05-11 | 124000 |  | 2.9 | Minor Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| I Got a Pet The Sea Eater | @PettoTitan | qu2sgRhJlPc | 2026-05-01 | 234000 |  | 2.39 | Minor Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| Hytale's Multi-Threaded Architecture Explained | @TroubleDEV - Hytale Dev Tutorials | 3CC8aKxXVB8 | 2026-02-01 | 104000 |  | 10.83 | Viral Anomaly | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| 10 Weird Facts About Yizo Yizo | @Unknown SataFrika | OwZmTK6r5qM | 2026-05-18 | 46000 |  | 3.42 | Major Outlier | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
-| Psychology of Trump Supporters \| Understanding Belief, Identity, and Loyalty | @Dark Owl | mxnwz-_vVkQ | 2026-05-01 | 655000 |  | 2.01 | Minor Outlier | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
-| 12 Birthstone dresses 🌺🪄princess fashion show \| cinematic fantasy ai videos | @Fantasy Era | 9UQ0hKyI4-Y | 2026-04-01 | 28000 |  | 2.87 | Minor Outlier | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| 911 SUPERVISOR FIRED AFTER DELETING EMERGENCY REPORTS | @Arrested Karen | 53612XAMDQY | 2026-05-01 | 112000 |  | 2 | Minor Outlier | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| 52 Legendary Child Stars of the 1990s 📺 Then vs Now 2026 \| Unbelievable Changes! | @Stars Then & Now | TrwP1Fs3CIo | 2026-05-11 | 2000000 |  | 7.62 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| 13 Creepy Videos You Should NEVER Watch Alone in the Dark | @Night Ruler | TqGxouO-ZZY | 2026-04-01 | 348000 |  | 2.87 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Monster Snake Size Comparison 2026 \| Jormungandr Vs Falak Snake | @MetaMonster Studio | 9wj319Lg89M | 2026-02-01 | 517000 |  | 44 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Why Mike WiLL Made-It Suddenly Disappeared | @Eleven 11 | ZcQW00giYhg | 2025-12-01 | 288000 |  | 2.21 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Why the 707 Felt Terrifying at First | @Flight Origin | YH9ly7LaypQ | 2026-05-18 | 148000 |  | 5.89 | Viral Anomaly | finder-section-cars-engineering | nexlev/finder | 2026-08-06 |
-| I Wasn’t Ready for What He Left Me | @Old Farmer’s Memories | jjHKDnDObNs | 2026-05-01 | 53000 |  | 4.76 | Major Outlier | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
-| My Sister Smirked That Dad Wouldn’t Walk Me Down The Aisle—Her Smile Vanished When She Saw Who Did… | @Revenge Orchid | vfUhCxc7790 | 2026-05-30 | 35000 |  | 3.93 | Major Outlier | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Police Officer Arrested After Concerning Telegram Messages | @Real Crime Cam | e42hIFU6_T4 | 2026-05-01 | 331000 |  | 5.04 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| Why Do We See the Same World If Every Brain Creates Its Own Reality? A Shared Hallucination? | @Omega Point | bcM9bXEvoRU | 2026-05-22 | 185000 |  | 2.29 | Minor Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| 10 Best New York Retirement Towns Nobody Talks About (2026) | @Jeremy White | fpSV5X-t0hU | 2026-05-01 | 51000 |  | 2.26 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| What you'll see when you die | @The Opening | KJg1-FCweWI | 2026-05-17 | 490000 |  | 2.35 | Minor Outlier | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| What Happened To These Racist Karens? | @Exposed & Punished | L33LgnMCgu8 | 2025-12-31 | 666000 |  | 2.09 | Minor Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| How to Treat Facial Acne at Home | @Revenge Labyrinth | gM74TJ4tUuQ | 2026-03-31 | 85000 |  | 3.95 | Major Outlier | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
-| How Top Players Get Fully Geared On League Start | @Mirror Tier \| POE 2 | I0dD-5I_xlw | 2026-05-28 | 170000 |  | 2.59 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| 10 WORST campaigns in US presidential history: From Henry Clay to Hillary Clinton | @History Buffs Hub | 639m2yAnlQ0 | 2025-12-01 | 200000 |  | 2.67 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| Extremist groups be like | @Zolex | oKtswGZ9S-I | 2026-05-01 | 185000 |  | 17.43 | Viral Anomaly | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| A short feature film, " Interview with Vamps \| Vampire Transformation #youtube #horror #vampire | @Fascinating-Vamps | NQifyWDLiS8 | 2026-03-31 | 26000 |  | 2.82 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| NOBODY Wants To Visit Venice Anymore — The Real Reason Tourists Are Abandoning The Sinking City | @Empire Falls | 2MIqHKTJH6s | 2026-05-23 | 252000 |  | 2.69 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| He Found Two Orc Girls In His Field At Dawn — The Question He Asked Instead Of Shooting Stunned Them | @Orc Promise | R3iVSiR7U6c | 2026-05-01 | 76000 |  | 2.19 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| How Mat Armstrong Destroyed Bugatti's Reputation | @Revmatch | JCMESlAL_3k | 2026-03-03 | 182000 |  | 2.94 | Minor Outlier | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Why Airlines Are Scrapping Brand New Planes | @Contrails | mpqtCVtL8vs | 2026-04-30 | 351000 |  | 39.82 | Viral Anomaly | finder-section-cars-engineering | nexlev/finder | 2026-08-06 |
-| 2025 Small Backyard Garden Ideas: 10 Lush Landscaping Hacks for Tiny Outdoor Spaces | @Home Garden Concepts | Rb5MoHO9J94 | 2025-07-30 | 500000 |  | 2.72 | Minor Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| Top 20 Most Beautiful Actresses of the 70s (Then & Now) | @Timera Studio | Bu5fscLl6Os | 2026-04-30 | 337000 |  | 2.41 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Speak These 3 Bible Verses Before Bed – Wake Up HEALED! \| Smith Wigglesworth Overnight Miracle | @The Healing Flame | Dfq_8vqKvh4 | 2025-08-30 | 508000 |  | 3.89 | Major Outlier | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| When Did Ancient Humans Start Drinking Alcohol? | @Ink Explainer | 9AFO6MHy8y4 | 2026-05-16 | 502000 |  | 6.24 | Viral Anomaly | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
-| How To Build Massive Shoulders (3 Science - Based Tips) | @Aesthetix | RQMuPaQbDsE | 2026-04-30 | 702000 |  | 2.96 | Minor Outlier | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
-| How To Find A Bedrock Hole to AFK Skellies (Donut SMP) | @VarmiMC | 1scPqkHg_OA | 2026-04-30 | 44000 |  | 3.9 | Major Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| "The Islamabad Talks — What's Actually Being Decided and Why It Matters Globally" | @Romeo Robinson | btqTy7XFMBQ | 2026-04-30 | 365000 |  | 2.4 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| 10 Weirdest and Most Isolated Towns in Yorkshire | @Deserted UK | UICJanehGCE | 2026-05-16 | 52000 |  | 4.03 | Major Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| The Most BRILLIANT Hunter in Minecraft Manhunt | @Archeruser | V5Bi477oEnM | 2026-03-02 | 338000 |  | 19.37 | Viral Anomaly | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| What Japanese Admirals Said Hours Before Midway | @Since 1945 | i8_JHD8sjkY | 2025-12-30 | 423000 |  | 39.98 | Viral Anomaly | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| Hidden Bigfoot Lineage Has Been Protected in a Quebec Lumber Settlement Since 1963—Midwife Speaks Up | @Bigfoot Sightings Canada | 7EyimFboI8U | 2026-05-16 | 44000 |  | 2.26 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Russia Just Lost EVERYTHING… But Real CHAOS Is Just Beginning. \| Ben Hodges | @Ben Hodges Updates | RzzxsZmkJ3w | 2026-04-30 | 55000 |  | 2.92 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| I Visited Abandoned Oil Rigs — and Found Something Terrifying Underwater | @Business Explains The World | MDkyUF7RZrU | 2025-07-30 | 4000000 |  | 8.4 | Viral Anomaly | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| Who Really Rules Saudi Arabia? | @Rory Talks | -T8odTqT5oU | 2026-05-20 | 119000 |  | 5.02 | Viral Anomaly | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| Barcelona All-Time Top Scorers ⚽️ | @2x45 | C6UkMkCH09c | 2025-12-30 | 676000 |  | 31.08 | Viral Anomaly | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Takamura FINALLY Brings Ippo Back to Boxing | @Reading Crow | D8bzdANbtxI | 2025-11-30 | 128000 |  | 5.42 | Viral Anomaly | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Pleasure Island: The History of Disney’s Adults Only Theme Park | @For the Love of Theme Parks | Kg5QsUMyNQQ | 2025-12-30 | 1400000 |  | 2.95 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| They Underestimated Efren Reyes… BIG MISTAKE 😳 | @CueBall Genius | ewgYtG7v-eU | 2025-12-29 | 1500000 |  | 2.16 | Minor Outlier | finder-section-sports | nexlev/finder | 2026-08-06 |
-| 10 Beloved Hardcore Pawn Members Who Tragically Passed Away | @The Fame Vault | jCdloM_MZm8 | 2026-05-08 | 159000 |  | 3.26 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| The Sleeve \| Windsor Saga, Chapter 11 | @Guard Action | 8_QFqWnHRSk | 2026-01-29 | 68000 |  | 6.41 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Bullied, Rejected, Used... Then He Stopped Feeling Anything - Manga Recap | @Jiji Recaps | 1Du0bnIV3-s | 2026-05-15 | 111000 |  | 3.66 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| London - 1600s | @Matt Reconstructs History | 994nGl4m-VM | 2025-12-29 | 1600000 |  | 7.79 | Viral Anomaly | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| 13 Animals Nobody Raises That Make $2,000/Month — ZERO Acres | @Backyard Bankroll | fsHCqCdt9X0 | 2026-04-29 | 437000 |  | 5.24 | Viral Anomaly | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| Judge DESTROYS Sovereign Citizen With FASTEST Shutdown in History \| COURTROOM CONFORNATION | @Witness Reacts | teLpGeCrrpw | 2026-05-08 | 50000 |  | 8.07 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| Regarding Gojo's "Frame One Block" [JJS] | @PositiveHA | GqCPEYrBtF0 | 2026-04-29 | 105000 |  | 7.21 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Fresh 0.3 Build - Spearfield Whirling Slash - 15 Min Guide | @Ignatius | XYW8Uivuerk | 2025-10-29 | 48000 |  | 2.25 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| POV: You Live Through Every Era of Money — LV.6: MONEY BECAME A MACHINE \| London 1694 | @Next Level POV | av7A9mp7djo | 2026-05-20 | 40000 |  | 3.77 | Major Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| I Bought 6,000 Acres Outside the HOA — Didn’t Know I Owned Their Only Bridge | @HOA Karen Nightmares | rp_eVCrx9-U | 2026-05-08 | 43000 |  | 2.21 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Yuji Itadori Moveset - JJS Skill Builder [IMPORT CODE] | @Jrannk | kM4bCrLMwqE | 2026-03-01 | 29000 |  | 4.2 | Major Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| Osho Breaks Silence: How Sexual Energy Becomes Your Greatest Strength | @OSHO AWARENESS | 5jiZGhKZKkw | 2025-11-28 | 57000 |  | 10.99 | Viral Anomaly | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| “Trump’s Canada INSULT Backfired — 72 Hour Silence COST America $58 BILLION” | @Mr.John's Briefing | LGWI09-6GLQ | 2026-05-18 | 203000 |  | 2 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| David Tepper - How a Day Trader Made $20 Billion \| Documentary | @Findicate | JCXRINhuJgM | 2026-04-28 | 83000 |  | 5.66 | Viral Anomaly | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| I Mastered Minecraft's New Strongest Weapon | @Freshlol | xe3VdA8DwXs | 2026-03-28 | 3000000 |  | 2.3 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| Retired Man Bought a Storage Unit with a HUGE Crate… What He Found Inside Shocked Him! | @Storage Unit Secrets | nul73yhQgVg | 2025-11-28 | 253000 |  | 31.12 | Viral Anomaly | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| Top 5 Most USELESS Perks in Skyrim (2026) | @Highway Dragon Gaming | vv_RbJuSKT8 | 2025-12-28 | 165000 |  | 2 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| The Brutal Genius of Siege’s Learning Curve | @MrRichMexican | ar5-WZ4SH4A | 2026-03-28 | 91000 |  | 14.94 | Viral Anomaly | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| Frankie Heck Ruined Her Kids (And We Laughed) | @Axl Gang | AFUQV_Ei5hw | 2026-04-28 | 47000 |  | 6.35 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| ✅Practical Prayer" Sabbath School Lesson 7 \| Growing in a Relationship With God (2nd Quarter 2026) | @Just Made It Simple | a62xc9zS1Jw | 2026-05-14 | 32000 |  | 3.23 | Major Outlier | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| Disguising as a NOOB & Dominating in Timebomb Duels.. 😈 | @azure | Nv6xgz8CizM | 2026-02-27 | 462000 |  | 2.51 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| HOA Burned My Winter Stockpile — So I Opened the Spillway and Their Neighborhood Went Under | @HOA Board Members | XFcHplS8W78 | 2025-12-27 | 306000 |  | 9.97 | Viral Anomaly | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| HUERO SHERM EXPOSED 🔥 \| Inside a Mexican Mafia Legacy | @Rene Enriquez Uncensored | lg_pzDJF6bc | 2026-05-13 | 115000 |  | 2.44 | Minor Outlier | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| I put the WORST GUN to the ULTIMATE TEST (Movie) | @Glorp | eKN44_aPsSk | 2026-04-27 | 49000 |  | 2.06 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| The 10 Deadliest Snakes On Earth | @Captain Obscure | K1KiqPwV6xU | 2025-12-27 | 1700000 |  | 9.1 | Viral Anomaly | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| 7 MUST-HAVE Apps for Every Windows 11 Install (2026) | @FixIn60 | I2QxKrw3dhE | 2026-02-27 | 150000 |  | 5.01 | Viral Anomaly | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| The BEST settings for bridges? Smooth UNSUPPORTED 3D printed bridges | @Make Wonderful Things | xQBLv3cPUbo | 2025-10-27 | 225000 |  | 7.44 | Viral Anomaly | finder-section-cars-engineering | nexlev/finder | 2026-08-06 |
-| How Frank Lampard Built the Coventry City MIRACLE | @Mega Football | 7aMGF_-6sis | 2026-04-27 | 333000 |  | 34.45 | Viral Anomaly | finder-section-sports | nexlev/finder | 2026-08-06 |
-| Neither of Them are Things, and I Can Prove It \| The Thing (1982) Explained | @Screen Media vs The World | 6HdTvVf04hI | 2026-04-27 | 288000 |  | 2.62 | Minor Outlier | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| 48 Mystery Full Episode 2026 💥💥Bradyn’s Last Drive💥💥 Murder Documentary Full HD | @Bang Bung | SHUdRWZ-SPE | 2026-05-19 | 103000 |  | 8.05 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| This is the US C-17 Globemaster | @V FRONTLINE | lCRYQ_QbDQ4 | 2025-06-27 | 461000 |  | 2.3 | Minor Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| “Stop Trying So Hard. ( The Secret of John 15 Explained Simply)” | @BibleResolve | pGoGBeb5AcM | 2026-04-27 | 649000 |  | 3.48 | Major Outlier | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
-| Rufous Horneros: 150 Days From Egg To Survivor | @Aeralith Wild | A8a0PYdYsgQ | 2026-04-27 | 468000 |  | 2.59 | Minor Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| 10 Australia's Hidden Towns Where Aussie Can Retire PEACEFULLY | @The Aussie Outback | WG9t6qutnug | 2026-01-27 | 48000 |  | 3.15 | Major Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| How Every Opponent of Miyamoto Musashi Died | @Dr Bob's Brutal History | VsJ94sEHSkU | 2026-05-14 | 209000 |  | 8.78 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| How to Create AI Selfie Transitions With Celebrities | @MDMZ - AI | gXBKV94u3OM | 2025-12-26 | 137000 |  | 3.91 | Major Outlier | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| The father who erased his entire family \| Forensic Investigators \| S03 EP09 \| Full Episode | @Forensic Investigators | tOyg4SNjyVU | 2026-03-26 | 338000 |  | 2.87 | Minor Outlier | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| My Perfect Start In Hardcore Minecraft | @JoshBlack59 | WXAgVhkksDE | 2026-01-26 | 926000 |  | 4.99 | Major Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| You’re Not Bad at Marathon Solo – You’re Making THESE Tiny Mistakes | @Mr Loony Lemon | WFmuFSz_7GU | 2026-03-26 | 36000 |  | 2.2 | Minor Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| The Rise and Fall of Bloodhound Lil Jeff | @Khoruy | CO11NhSLcBk | 2026-02-26 | 375000 |  | 55.35 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Gene Hackman life style | @EliteRevelation | GtYeXLSRymo | 2026-03-26 | 140000 |  | 2.3 | Minor Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| I Restored a Forgotten Belgian Shotgun | @JBG Works | VUw4p5WeHc0 | 2026-03-26 | 273000 |  | 32.63 | Viral Anomaly | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
-| UNBELIEVABLE BATTLE: Giant Gorilla Vs King Lion \|\| Who Is The Real King? Gorilla&Lion\|Animal fight | @FurFight TV | VXudnaPt25k | 2026-03-26 | 1200000 |  | 3.43 | Major Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| 24 Most Terrifying Moments of Boats and Ships Launch Failures Caught on Camera | @Boating Nomad | CHygaXNscn0 | 2026-04-26 | 292000 |  | 4.54 | Major Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| The Kid Who Found The Infinite Money Glitch | @Vyne | jQ1hQSz8JvQ | 2026-03-26 | 37000 |  | 2.18 | Minor Outlier | finder-section-money-business | nexlev/finder | 2026-08-06 |
-| I FOUND RUMI, MIRA & ZOEY in a Secret Tower! What Happened To Zoey?! | @Dustbound | Kin8oDnJJes | 2026-02-26 | 3300000 |  | 14.26 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Dandy's World Ichor & Currency System is Outdated (And Needs Fixing) | @shmark | Fa4_8kdIJgA | 2026-02-26 | 78000 |  | 3.35 | Major Outlier | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| All the Happy Days (1974–1984) Actors Who Have Sadly Died? | @Classic Hollywood TV | -nFN-EphKKE | 2026-04-26 | 175000 |  | 5.33 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Why Stamina is the WORST stat in Dandy's World! | @Acidrop | fhoRfWjx3JA | 2026-02-26 | 130000 |  | 4.06 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Most Terrifying Sea Creatures Explained in 10 Minutes | @Prumhy | QU2-prqM_rE | 2025-12-26 | 998000 |  | 5.29 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| I Tried Kerbal Space Program’s HARDEST Challenge \| KSP Hardcore 1 | @The Void | ruVszZpWgBs | 2025-06-26 | 428000 |  | 6.81 | Viral Anomaly | finder-section-gaming | nexlev/finder | 2026-08-06 |
-| They Thought No Help Was Coming—Then Human Warship Came Howling from the Void \| HFY Sci-Fi Story | @SciFi Area | blR1nebIBZI | 2025-06-26 | 156000 |  | 3.06 | Major Outlier | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
-| Every 2026 GPU Brand Explained: What’s the Real Difference? | @Socket-X | namWLTrbA1A | 2026-05-05 | 270000 |  | 6.86 | Viral Anomaly | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
-| MOST DEADLIEST WOMEN IN SOUTH AFRICA (PART ONE) | @Cross-Border Crimes | ZoJBR2PdpQo | 2025-10-26 | 281000 |  | 6.56 | Viral Anomaly | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
-| Ukraine Hit Russia Where It Hurts the Most… Total Victory Is Now INEVITABLE | @Sophia Grant Reports | tuAGqqM_pZg | 2026-04-26 | 95000 |  | 3.57 | Major Outlier | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
-| Gilligan's Island: 62 Years Later | @Retro Cast Updates | WITjAxMQXVg | 2026-05-11 | 993000 |  | 3.54 | Major Outlier | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| Oldest Actors Still Alive — Then & Now (You Won’t Believe Their Age) | @Stars Evolution | Yg17bpYV6u8 | 2026-04-25 | 4800000 |  | 5.96 | Viral Anomaly | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
-| is switching to Discord alternatives actually worth it? (yes) | @Zei | PuggUjrEeQI | 2026-02-25 | 136000 |  | 2.04 | Minor Outlier | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I Conquered A Server I Wasn't Invited To | @ServerSideJysq | AMRa5Shqym4 | 2026-06-06 | 1200000 |  | 14.55 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| The Perplexity Feature Almost Nobody Uses | @Eenie Mind | PbgUUXxkHR4 | 2026-07-24 | 69000 |  | 7.11 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| MARVEL Tōkon: Fighting Souls \| Hulk Character Guide | @MARVEL Tokon: Fighting Souls | ZpltVWShvHE | 2026-08-05 | 277000 |  | 9.24 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| STAB THEORY - Analyzing the Disappearance of December Holiday \| Deltarune Theory | @ZennyKnight | 5J8PGzSsU_Q | 2026-07-29 | 99000 |  | 16.93 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Scrubs Knew Something Most Shows Don't | @Millennial Rewind | w0sO4GsAR34 | 2026-07-24 | 92000 |  | 4.17 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| How Caterpillar D11 Bulldozers Are Rebuilt \| Start to Finish | @Earthmovers Media | eSr6dNDSci8 | 2026-03-05 | 758000 |  | 7.05 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Top 5 Most Insane Double-Floor Motorhomes You Won’t Believe Exist! | @Rolling Luxe USA | PvgaUZijGts | 2025-08-05 | 1900000 |  | 2.55 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Evample And I Are PEAKING | @tims | US5VaPcXTK0 | 2025-11-05 | 1100000 |  | 5.3 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Why do you like eating cheese? #food #cheese #knowledge | @Mr. Listener | G95WDDEeHyc | 2025-08-05 | 94000 |  | 2.74 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Nobody Explained Maxwell's Equations Like THIS! | @Animated Physics | yGWEuxaaMNw | 2026-07-26 | 281000 |  | 23.08 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Steph Curry DIDN'T HOLD BACK After Alyssa Thomas BRUTAL Attack On Caitlin Clark - "ENOUGH IS ENOUGH" | @Basketball Legends | z5cITVw0zi4 | 2026-07-05 | 293000 |  | 4.24 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| Ukraine Just Hunted Down Russia's Last Submarine \| Ben Hodges | @The Chokepoint Review | eq4n7RcYatg | 2026-08-04 | 38000 |  | 5.29 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| “They Destroyed My Crutches,” She Cried to a Biker — 70 Hells Angels Returned Furious | @heart tales | zvxqa2TWv-M | 2026-07-15 | 132000 |  | 2.34 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| The Dressing Room Spy That Destroyed a Football Superpower | @Red Card Films | LMOzw6Dkjqw | 2026-07-05 | 113000 |  | 17.46 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| Gerson ALREADY Told us How Deltarune is Going to End \| Deltarune: Interpretation Theory | @Psychic Fire | _dwSIwpbHJU | 2026-07-05 | 91000 |  | 14.28 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Sisu 2: Road to Revenge (2025) Movie \| Jorma Tommila vs Stephen Lang \| character psychology Review | @Cara Films | T-IFHn8bUBM | 2026-04-05 | 572000 |  | 40.06 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| Why U.S. Marines Let Japanese Soldiers Get "Too Close" — Then Killed 800 in One Night | @American Soldier Stories | eGw9ORQsC8s | 2026-07-14 | 116000 |  | 3.21 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Eruption of Mayon Volcano is a Warning to the World... | @Stefan Burns Clips | GGkBoq1zAEQ | 2026-05-04 | 2600000 |  | 14.3 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| "You've Never Been on a Real Mission"—Then the Whole Room Learned Who I Really Was... | @HONOR VOICES | Sw2s6aBQAIc | 2026-07-27 | 78000 |  | 2.87 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| Inside Yautja Prime: The Brutal World That Created the Predator | @Fiction Max | w-RBI8bMbcc | 2026-07-21 | 230000 |  | 44.04 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| Stop Wasting AI Credits — Plan Mode Just Changed the Game | @Enter Pro by Converge AI | 5LLtGC5FG6I | 2026-04-04 | 1100000 |  | 2.38 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| The Forgotten Sleep Pattern Your Ancestors Lived By (You Still Do This!) | @The Fact Vult | 6K27CzCXDNk | 2026-07-21 | 29000 |  | 4.43 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| China's Fujian Carrier Breaks Down After One Month: The $13 Billion Showpiece That Can't Stay Afloat | @China Uncovered | 3i0VpiAhFYE | 2026-01-04 | 119000 |  | 4.22 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 25 Experts Failed, But The Curvy Maid Solved It in 1 Minute — Leaving The Mafia Boss Speechless | @Nightmare Narrator | BrHMkyF0QCo | 2026-07-14 | 67000 |  | 4.11 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| Frasier's Most Brilliant Unscripted Moments | @Frasier Central | 1JddQaWgoNI | 2026-05-04 | 658000 |  | 5.37 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| How Did Comanche Warriors Sleep Through Freezing Nights Outdoors? | @Vornic | eYBzn-u_TiI | 2026-07-28 | 340000 |  | 2.68 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| My Son Said Find Your Own Place at 68 — So I Bought a Penthouse in Monaco Instead | @Her Family Stories | lFLHkwxA-j0 | 2025-09-04 | 226000 |  | 3.35 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| What If Saitama Entered the Backrooms? | @Anidomain | F03NDtJVzPU | 2026-07-21 | 155000 |  | 6.27 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Asian Carp Are Vanishing in the Illinois River —The Real Predator Was Unexpected | @Blue Trees | mOZ9t04iuKE | 2026-08-03 | 177000 |  | 4.61 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| After Being Rejected by My Girlfriend, I Was Reborn and Became a Billionaire | @Gotex Ball | yU_snx7uPGg | 2026-07-14 | 136000 |  | 9.91 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I worked UNDERCOVER in Shein’s factory village \| The truth Behind fast fashion #shein | @Jenny Uncovers China | BeIkPqpVmE8 | 2026-05-04 | 3800000 |  | 366.76 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| Hundreds of Fish And Oxpecker Clean Thousands of Parasites Off This Buffalo \| The Life of Oxpecker | @Wild Bird Survival | oqC5OVJhSj0 | 2026-07-14 | 2200000 |  | 11.73 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| 8 Vintage CorningWare Dishes in Your Kitchen Worth a Fortune in 2026 (One Listed for $25,000!) | @Never Sell Club | qio6eDW5qG0 | 2026-07-14 | 251000 |  | 2.17 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Are we creating a generation of self-absorbed bullies? | @Ashley Embers | hV4suJ-oM14 | 2024-08-04 | 2400000 |  | 5.04 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I Tested the IKEA v2 Kelp Farm on Donut SMP | @Epic_1237 | WtJ31GK6WqE | 2026-01-03 | 101000 |  | 2.21 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| The NFL Has A QB Slide Problem... (Here's Why) | @Troybert | sfF9KqlWPzE | 2025-08-03 | 602000 |  | 5.16 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| Dealer License From Scratch Episode 5! (Full Car Flip Process) | @MattieFlips | OH0wboBUBtw | 2026-07-03 | 320000 |  | 6.89 |  | finder-section-cars-engineering | nexlev/finder | 2026-08-06 |
+| What Actually Happened to EVERY Senator Who STABBED Julius Caesar? | @Graven History | Hnq2dBVUk50 | 2026-07-20 | 371000 |  | 19.13 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| Trump Revived a 1930 Depression Law Against Canada. Carney Said Nothing. That's the Point | @MarketMindset | jXBqxnpQVy0 | 2026-07-31 | 151000 |  | 3.51 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Why Your Brain Never Feels Rich Enough (And How to Rewire It) — The Psychology of Money | @The Affluent Mind | dI64rTyvAn0 | 2026-07-13 | 1600000 |  | 2.14 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| King Kong vs Giant Mutant Deer \| The Ultimate Kaiju Jungle Battle | @Dee AI Films | 3oUXyJYSv_Q | 2026-04-03 | 2300000 |  | 53.03 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Top 10 NEWEST All Inclusive Resorts Opening in 2026 | @twobirdbrains | GJYV1CoNH_M | 2026-04-06 | 97000 |  | 3 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I Pretended to Be a NOOB with the STICK! | @Player GTAG | icHaUKV3vzI | 2026-07-16 | 20000 |  | 2.34 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Grand Theft Auto: Ancient History | @db | 2zBSySIeFiM | 2026-05-06 | 128000 |  | 3.7 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| 12 South Carolina Towns So Dangerous Even Locals Avoid Them After Dark | @Carolina Living | KG9blFjS9Uw | 2026-07-30 | 88000 |  | 5 |  | finder-section-money-business | nexlev/finder | 2026-08-06 |
+| Harvard Professors Were Shocked! Turning Scrap E-Bike Motors Into a Useful Device | @Technium Restoration | S5CHlr5jXi8 | 2026-07-06 | 364000 |  | 2.85 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| NORWAY TRAVEL DOCUMENTARY \| The Grand Norwegian Roadtrip | @Lucas T. Jahn | v4CA65JyaVA | 2023-08-06 | 11000000 |  | 7.47 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| The Canadian Shield Is Hiding Something Nobody Talks About | @The Hidden Provinces | DH2vja1NNv8 | 2026-07-16 | 75000 |  | 5.39 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Monsters of Rock Headliners: Then vs Now 2026 😱🤘 | @Let's Rewind | JouvFWV3A5s | 2026-07-16 | 837000 |  | 6.35 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Swiss Pikemen: Perhaps the Greatest Soldiers of Medieval Europe | @History Uncovered | EIg8uVZ1wAM | 2018-08-06 | 683000 |  | 3.37 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Business Strategy That Made Gus Fring Untouchable | @Character MBA | sNRjvyVEVuM | 2026-06-06 | 156000 |  | 2.51 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| SHOCKED THE BOXING WORLD! Mike Tyson vs Andrew Golota \| Boxing Highlights HD | @Boxing Vibe | x7eE0Huw-C0 | 2026-06-05 | 2500000 |  | 3.43 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| 1 MIN AGO: Iran's 5,000 KM Missile... THEN THIS HAPPENED | @Trade Nexus | AmIPKl0h4rY | 2026-07-31 | 110000 |  | 2.74 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| England's 10 Most Haunted Houses Even Ghost Hunters Refuse to Enter | @Oldways Britain | Xkxd8Hhw1AQ | 2026-07-16 | 105000 |  | 5.5 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 🚨 If Police Knock and Say "We Got a Call About You" - Say THIS (One Sentence) | @Marcus Reed | HqpIOEBe_I4 | 2026-07-27 | 204000 |  | 3.72 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| Marine Corps Boot Camp Is Stupid & Spiritually Depraved | @Lost Things Found | cjDHoNcH5o4 | 2026-07-23 | 1100000 |  | 2.72 |  | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
+| STOP Trusting Influencers, Getting Caught Red Handed in 2025... | @Zac V2 | WlXH_NcU_pc | 2025-08-06 | 1000000 |  | 11.12 |  | finder-section-money-business | nexlev/finder | 2026-08-06 |
+| Patch 1.12 – Massive Reworks & New Systems \| Millennium Dawn Update | @Millennium Dawn Official | rVzab9Pr514 | 2025-08-06 | 31000 |  | 7.4 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Your Life Driving the Same Car for 15 Years | @Louis Status | _RiP4vCjHKQ | 2026-06-06 | 109000 |  | 2.54 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 11 Ancient Structures in Jamaica No One Can Explain | @Forbidden Islands | ttNNPyC91oA | 2026-07-05 | 236000 |  | 4.55 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Giant Monster Design Pacific Rim Got Right | @Sci-Fry | 2XXb2NJRM_U | 2026-07-09 | 633000 |  | 13.67 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 28 Minutes Of Non-Stop Lion Interactions And Hunting Action | @Wild Tings | YylMRw3mMTU | 2026-04-06 | 363000 |  | 14.49 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I Built The BIGGEST BASE In 99 Nights In The Forest! | @AlexBlox | vgIvAjOxSTc | 2025-08-05 | 5200000 |  | 2.72 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Why These Rooms Never Feel Finished — And What Actually Fixes It. | @Perfect Home Decor | E2kCSbzTpZ8 | 2026-07-06 | 72000 |  | 2.14 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| How the northern Khanty people survive in the harsh climatic conditions of the Russian North. | @Layla Sun | bnMH4GhiV6I | 2026-01-06 | 7200000 |  | 2.85 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Pioneer Woman Who Turned a Cave Into the Warmest House in Montana | @Survival They Mocked | OdZQ7TssbR4 | 2026-02-06 | 473000 |  | 28.55 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| TEXAS 1960 Cold Case Solved After 57 Years — The Killer Was the Priest | @Cold Case Redemption | 0z2C79an5xk | 2026-07-22 | 73000 |  | 6.96 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| POV: Your Life as Every Level of a Necron (Warhammer 40k) | @Lowkey NPC explains | NPmxHZlp0u0 | 2026-08-01 | 116000 |  | 2.06 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Formula One World Champions (1950–2025) | @Movie Metrica | hf6VIsmNBIo | 2025-12-06 | 418000 |  | 3.55 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| The Final Hours of Michael Jackson's Life in 5 minutes | @Vaulted Oak History | AzRmSJnTXsQ | 2026-07-06 | 229000 |  | 13.8 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| Why RuneScape's First Cartel Collapsed - The Fall of Bluerose13x | @Colonello | V41ngUrC4Co | 2024-08-05 | 2700000 |  | 4.58 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Everyone Mocked His Useless Skill, Until It Gave Him Infinite Supplies in the Apocalypse | @Neo Origin | lW0TwW-Azbg | 2026-07-06 | 224000 |  | 34.08 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| The Biggest Raven Attack Yet! 🚨 Brave Jackie Flies Off to Save Shadow and the Babies! | @Jackie & Shadow Nest Moments | HYCw9M5K27M | 2026-05-06 | 124000 |  | 4.29 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| My Country Is Choosing Extinction (Korea) | @Papiens | 3ujrH0blA1Y | 2026-05-06 | 2000000 |  | 103.68 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| If you are Black, Watch This Before it gets Deleted. What Did Black People Ever Do? | @Kemet Files | xU7hJPAuwaU | 2026-07-23 | 151000 |  | 2.58 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Nobody Can Handle Cillian Murphy's NONCHALANT Personality | @Belmorra | URnPmZbJTG4 | 2026-07-23 | 1300000 |  | 107.58 |  | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
+| 10 PS1 Horror Games That Still Feel Disturbing | @TomoGamers | OOK1Sg1yg2Q | 2026-06-06 | 160000 |  | 2.19 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| THE SEED \| Complete Story | @MARIS ORIGINAL FILMS | chxNszDbCg4 | 2026-07-06 | 207000 |  | 4.66 |  | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
+| European Fans Returned Home After the World Cup — Their First Meal Back Left Them in Shock! | @Europe Wakes Up | 6ak2OQqomWU | 2026-07-16 | 87000 |  | 3.03 |  | finder-section-politics-geopolitics | nexlev/finder | 2026-08-06 |
+| 20 AMAZING Places In Europe You MUST Visit Before You Die | @Horizon Boulevard | 9yXiZuRFALs | 2024-08-05 | 2800000 |  | 5.49 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| The Most Super Satisfying Minecraft Physics Showcase 🤯🔥 4K | @Blendify | zw9o-0gx_Mg | 2026-06-05 | 2400000 |  | 14.08 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Living in Palmerston \| Home to Just 35 People, All Descended from One Man \| 4K Travel Documentary | @Impossible Places Global | VcsD1hZgS4o | 2026-07-22 | 389000 |  | 58.13 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Delivery Boy Make The Scary Tomboy Fall In Love with Him \| Manga Recap | @Ewigen Manga | o0hM2qe3UkA | 2025-12-06 | 237000 |  | 2.13 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Angels Are Assigned to You  — But Are You Activating Them? \| E.W. Kenyon Spiritual Teachings | @Kenyon Spiritual Teachings | sGFunWXyUOU | 2026-06-06 | 68000 |  | 2.88 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Two Brothers Turned 100-Year Abandoned SILO Into a Luxury Family Space \| @Worzalla Brothers | @Maker World | JrFvpeB2Eb8 | 2026-07-23 | 1400000 |  | 4.08 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| TADC Ep 9: The 5th Door You Missed (Jax Explained) | @DRACARYA | ZUelSMmrLw4 | 2026-07-06 | 11000 |  | 3.3 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 10 Iconic ’70s Albums That Are Quietly Becoming PRICELESS (Never Sell These!) | @Records Insider | u9Oq_GoAT6c | 2026-07-06 | 92000 |  | 2.1 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| Every Angle Grinder Disc Explained In 11 Minutes | @Workshop Decoded | bbsIcbvyVqU | 2026-07-06 | 443000 |  | 5.9 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I 100%'d Kingdom Rush on Veteran Mode | @Rotusdil | q_SCYRmGCiY | 2026-02-05 | 607000 |  | 12.35 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| When Road Ragers Messed With The Wrong Person \| Instant Karma #6 | @Carma TV | Pp79jACUVTI | 2025-11-06 | 440000 |  | 3.14 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| One of the Most DISTURBING Analog Horror You Haven't Seen \| Alta Paradisus | @RichInLore | oprRhIU-oRE | 2025-08-06 | 367000 |  | 49.97 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Ethereum analysis | @LEXER | mjsKsBT-To0 | 2026-07-09 | 49000 |  | 7.08 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| *NEW* OPTIMIZED 6'8 "GRAVEDIGGER" LOCKDOWN DEFENDER BUILD IN NBA 2K26 - BEST LOCK BUILD 2K26 | @ThatsZango | qZkQKbZEy70 | 2026-02-06 | 87000 |  | 6.28 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Avengers: Doomsday (2026) \| New Trailer \| Comic-Con \| In Theaters December 18th \| Marvel Comics | @ScreenSecrets | HN8AW86VLyw | 2026-07-28 | 68000 |  | 2.9 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Napoleon Was Not A Cuck | @TonyHasHistory | 3P5ux-QuqpQ | 2026-06-06 | 168000 |  | 2.41 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| Zendaya Talks About Tom Holland and Marriage for 6 Minutes Straight | @Fame Unfolded | 8yguIYE4NqY | 2026-05-06 | 2000000 |  | 4.84 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Caught Stealing Thousands From Ulta — Then She Said "Girl, We Is On Probation" \| Legal Analysis | @Case Breakdown TV | jD6aYQPP-Ow | 2026-07-29 | 269000 |  | 5.1 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| AN SE YOUNG vs MICHELLE LI 🔥 Incredible Women’s Singles Battle \| Badminton Highlights 2026 | @Badminton Pulse | qkSrKtrBIYI | 2026-06-06 | 82000 |  | 2.95 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| Building Mario with Bricks | @Aby Bricks | d9unGG62s84 | 2026-07-06 | 852000 |  | 174.8 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| Airplane Size Comparison 3D | @Gloww | wgZXqtK0NMo | 2026-06-06 | 440000 |  | 3.27 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Inside Kandahar: The 2006 Suicide Bomb That Killed Diplomat Glen Berry | @Elite Force | TVgZmkPTqCs | 2026-07-23 | 69000 |  | 6.69 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| Visual Poems \| The Secret Garden 🌿 Mary Lennox in a Hidden European Garden \| Classic Music | @Oil Memory | vNtjtpi0SRw | 2026-02-06 | 200000 |  | 2.08 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Three Sisters Were Presented for the Duke to Marry — He Chose the Quiet Woman Pouring the Tea | @Untold Chapters | x5NIhfHtE4c | 2026-07-24 | 175000 |  | 9.17 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Non Horror Fan Plays Minecraft's Scariest Mod | @GAM | dQY7Jy06seg | 2026-05-06 | 786000 |  | 8.06 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Indiana Jones 5 - No More Heroes | @The Little Platoon | q6gIekBPHLM | 2023-08-06 | 2300000 |  | 3.81 |  | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
+| Subnautica 2’s First Major Update is Next Week! (Update 1.1 – BioMods + Storage Cache + MORE!) | @Giggy | CW49L33pFkE | 2026-07-06 | 37000 |  | 3.69 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| 10 Amateur Built Aircraft You Won't Believe Actually Flew! | @Ultimate Aircraft | 3XZILJwxB2A | 2026-07-24 | 215000 |  | 6.84 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| What Happened Between HOTD and AKOTSK \| Timeline Recap | @A Channel of Ice and Fire | 7cGJ-rjb8Ao | 2025-12-05 | 574000 |  | 3.08 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| The Most Terrifying Alaska Iceberg (Creatures, Encounters, Mysteries) | @rook | 2tMqF8W-Svk | 2026-07-06 | 109000 |  | 4.8 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Every YouTube Play Button Explained in 4 Minutes | @Explorer Guy | wvP7GFEDU1Q | 2026-06-05 | 222000 |  | 29.38 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Epstein Files Just Got Worse | @jawbree | kVpiDmw2oHY | 2026-03-05 | 1000000 |  | 9.05 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Horror Movies With the Most Satisfying Karma Endings | @Frame Explainer | obcNuF0xnwk | 2026-05-06 | 114000 |  | 5.35 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| William Strips Meghan’s Duchess Title, Exiles Sussex From All Royal Events | @The Windsor Lens | CkQp_XCKqPY | 2026-07-24 | 76000 |  | 2.41 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The only quest in Skyrim you can permanently reject | @Moth Preacher | erjLfgX7FJ0 | 2026-07-26 | 97000 |  | 6.46 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| My new coworker calls my husband "OUR HUSBAND." | @Mini Mystie | SNU_3ggHrrQ | 2026-07-05 | 86000 |  | 3.28 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| I Analyzed All 30,093,975,536 Battleship Boards So You Don't Have To | @Ballpark Figures | ZBdajiTz48k | 2026-07-06 | 529000 |  | 34.19 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| This Claude Skill Watches Videos So You Don't Have To | @Taoufik | iYG5tiFfK3E | 2026-07-06 | 56000 |  | 7.37 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 13 HIDDEN Mechanics Bannerlord Doesn't Tell You About | @Bill Wavey | HHa_5pC-LZs | 2026-04-06 | 224000 |  | 4.78 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| How I EASILY obtained NOISEFORM DEV ROD WITHOUT AURORA \| Fisch | @RRiccoo | e0fmjQqqkng | 2026-07-09 | 73000 |  | 15.5 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Every Spaceship Movie Gets This Wrong (Except Alien) | @Ship-Yard | iu6J0zECZ18 | 2026-07-15 | 136000 |  | 4.52 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| 10 Lost Species That Came Back from Extinction | @Drawn to Death | 5p-B8G2gwmU | 2025-11-06 | 78000 |  | 2.07 |  | finder-section-science-space-nature | nexlev/finder | 2026-08-06 |
+| Ukraine Waited for Russia's Largest Ammunition Train to Enter the Tunnel — Then THIS Happened... | @Beyond Red | GUhh_pKpbCc | 2026-07-23 | 46000 |  | 2.97 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| $0 to $50 Million: Best Donut SMP Money Making Methods | @TypicalBread | zOsg6G60DVY | 2026-06-06 | 23000 |  | 2.93 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| 20 Reasons RELL Seas Will 100% TAKE OVER Roblox... | @RELL Reporter | 1djXn1dJaAo | 2025-08-06 | 46000 |  | 4.7 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Football Legends Explain How TERRIFYING Eric Cantona Was | @World Football Icons | VeiIolKA8nY | 2026-07-06 | 126000 |  | 3.37 |  | finder-section-sports | nexlev/finder | 2026-08-06 |
+| How to Play (some) Situational Operators in Siege! | @TJ Hill | TkoAvTdi-wk | 2026-07-06 | 37000 |  | 3.49 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| Nobody Explained the Schrödinger Equation Like THIS! | @Animated Math | X-q2eZVhff8 | 2026-07-23 | 222000 |  | 3.05 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| How ANYONE Can Destroy ACT 1 On Huntress! It's Easy! [Path Of Exile 2 Huntress Build] | @Plunderthabooty POE2 | _e48OwwtcVo | 2026-06-05 | 90000 |  | 9.61 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| The Greatest Female Warriors Who Ever Lived — and How They Died | @History Uncovered | pD4PsB1YMGc | 2026-01-05 | 721000 |  | 4.98 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| The Economics of Owning a Medieval Tavern | @The Expensive Part | tLFt7bOxa64 | 2026-07-23 | 80000 |  | 2.41 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| 5 Most DISTURBING Forest Camping Encounters Caught On Camera | @Nightmare Hollows | BImlEA-y3RY | 2026-06-05 | 252000 |  | 2.95 |  | finder-section-history-documentary | nexlev/finder | 2026-08-06 |
+| The Second Greco-Persian War \| Epic AI Film \| Thermopylae, Artemisium, Salamis, Plataea & Mycale | @Marcus Ward — History | LUoygrigvEA | 2026-06-06 | 373000 |  | 3.19 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| STAR WARS: The Last Stand on Hoth \| A Fan Film | @Bo Wilder | SIVQu6_-DKc | 2026-04-06 | 737000 |  | 9.64 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| JUST IN: John Kennedy Vs Ilhan Omar: The Financial Evidence Nobody Saw Coming | @The Capitol Vault | rnNaWpzD2t8 | 2026-08-03 | 458000 |  | 4.79 |  | finder-section-health-psychology | nexlev/finder | 2026-08-06 |
+| The Entire Story of Parchman Farm — Mississippi's Plantation Prison and the Blues Born in Its Fields | @Forgotten Wards | TNRGp2jdDSY | 2026-07-22 | 56000 |  | 2.24 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| Mama Dog Who Lost Her Puppy Was Heartbroken Until She Got a Kitten ❤️ | @ZebsKingdom | y3qP3Luq-eg | 2026-05-06 | 383000 |  | 2.73 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 6 Scary Prehistoric Animals Found Frozen in Ice | @Fossil Fruw – After Dark | TzseCHs__U4 | 2026-07-16 | 2400000 |  | 2.3 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Car Mechanics Are Finally Speaking Out About What's Really Happening To Cars & Trucks, It's Not Good | @A Generation Cooked | NaeAdQoeYxY | 2026-07-16 | 195000 |  | 6.81 |  | finder-section-money-business | nexlev/finder | 2026-08-06 |
+| CALL ME MELAND \| RDC animation | @Hiolp | KCTU-4NMt58 | 2025-11-06 | 38000 |  | 2.2 |  | finder-section-entertainment-drama | nexlev/finder | 2026-08-06 |
+| American Mercenaries Found Something Hidden Inside Russian Positions | @San English | qc_9Vbb27VA | 2026-08-02 | 889000 |  | 7.38 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Chilean Music be like... | @LauJak | yQp5c0eA1tg | 2026-06-05 | 82000 |  | 2.37 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Crushing Ore: Technologies and Process for Extracting Gold | @Yuniforum | tKCfmfjW9qs | 2026-03-06 | 159000 |  | 2.98 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| If You're Anxious, Rest to the Gospel of John Tonight | @Hush Little Lamb | Ln4_CtkZsRs | 2026-06-06 | 271000 |  | 12.3 |  | finder-section-religion-spirituality | nexlev/finder | 2026-08-06 |
+| WHAT IF BATMAN GOT THE SUPER SOLDIER SERUM? | @Beyond Canon | BMEG8O6SVSU | 2026-07-06 | 171000 |  | 2.1 |  | finder-section-other-uncategorized | nexlev/finder | 2026-08-06 |
+| Every Gun Developed by Sweden During the Cold War | @Cycle Of Operation | K80Sy6SlRF4 | 2026-05-06 | 21000 |  | 2.73 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| The Impossible Siege of Tyre: Alexander the Great’s War Against the Sea (332 BC) | @Ashes of Empires | UE7HfIJcL2w | 2026-07-06 | 167000 |  | 4.17 |  | finder-section-gaming | nexlev/finder | 2026-08-06 |
+| NZDF’s Move To MARS-L: How New Zealand Selected Its Service Rifle | @Tasman Defence Review | sTcbvhJzR3Q | 2026-07-23 | 63000 |  | 9.06 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| 6 Serial Killers Netflix Won't Show You \| True Crime Documentary | @Morbid Report | jquy9oM8-nk | 2026-07-06 | 128000 |  | 5.64 |  | finder-section-crime-legal-bodycam | nexlev/finder | 2026-08-06 |
+| All Carnivorous Plants Explained | @Ceph Explain | Wr53U2TGx8Q | 2026-06-05 | 108000 |  | 3.36 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
+| Every Dark Web Mystery Explained | @Paint Maniac | 5mZZQIOeq_A | 2026-06-06 | 483000 |  | 15.89 |  | finder-section-tech-ai | nexlev/finder | 2026-08-06 |
