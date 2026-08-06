@@ -187,6 +187,20 @@ const server = http.createServer(async (req, res) => {
       const result = ingestBatch(decodeURIComponent(ingestMatch[1]), body);
       return json(res, { ok: true, ...result });
     }
+    const replaceMatch = p.match(/^\/api\/tabs\/([^/]+)\/replace$/);
+    if (replaceMatch && req.method === "POST") {
+      const slug = decodeURIComponent(replaceMatch[1]);
+      const body = JSON.parse(await readBody(req));
+      const tab = loadTab(slug);
+      if (!tab) return json(res, { ok: false, error: `no tab "${slug}"` }, 404);
+      tab.directCompetitors = [];
+      tab.risingCompetitors = [];
+      tab.videos = [];
+      tab.registry = { lastDate: "", channels: 0, videos: 0 };
+      saveTab(tab);
+      const result = ingestBatch(slug, body);
+      return json(res, { ok: true, replaced: true, ...result });
+    }
     const inspirationMatch = p.match(/^\/api\/tabs\/([^/]+)\/inspiration$/);
     if (inspirationMatch && req.method === "POST") {
       const body = JSON.parse(await readBody(req));
